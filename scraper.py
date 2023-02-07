@@ -1,0 +1,85 @@
+import pandas as pd
+import requests
+
+def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
+    #initialize variables lists
+    name_list = [['goal_scorer','EV_G','PP_G','SH_G'], ['assist1_player','EV_A1','PP_A1','SH_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2']]
+    plus_minus = [['plus','EV_GF'], ['minus','EV_GA']]
+
+    game = pd.DataFrame()
+    for game_id in range(start_game_id, end_game_id):
+        
+        url = 'https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id={event_id}&lang_code=en&fmt=json&tab=gamesummary'.format(event_id = game_id)
+        response = requests.get(url)
+
+        fjson = response.json()
+
+        goals = fjson['GC']['Gamesummary']['goals']
+        game_number = fjson['GC']['Gamesummary']['meta']['game_number']
+
+        hdata = fjson['GC']['Gamesummary']['home_team_lineup']['players']
+        adata = fjson['GC']['Gamesummary']['visitor_team_lineup']['players']
+
+        game_stat = {}
+
+        for goal_info in goals:
+            if goal_info['power_play'] == '1':
+                man_strength = 2
+            elif goal_info['short_handed'] == '1':
+                man_strength = 3
+            else: man_strength = 1
+            for name in name_list:
+                if goal_info[name[0]]['player_id'] not in game_stat.keys():
+                    game_stat[goal_info[name[0]]['player_id']]= {name[man_strength]: 1}
+                elif name[man_strength] not in game_stat[goal_info[name[0]]['player_id']].keys():
+                    game_stat[goal_info[name[0]]['player_id']][name[man_strength]] = 1
+                else: 
+                    game_stat[goal_info[name[0]]['player_id']][name[man_strength]]+=1
+            
+            if (len(goal_info['plus']) == 5) & (goal_info['empty_net'] == '0') & (goal_info['short_handed'] == '0'):
+                for sign in plus_minus:
+                    for player in goal_info[sign[0]]:
+                        if player['player_id'] not in game_stat.keys():
+                            game_stat[player['player_id']] = {sign[1]: 1}
+                        elif sign[1] not in game_stat[player['player_id']].keys():
+                            game_stat[player['player_id']][sign[1]] = 1
+                        else: game_stat[player['player_id']][sign[1]] += 1
+        game_stat_df = pd.DataFrame(game_stat).T.reset_index().rename(columns={'index' : 'player_id'})
+        game_stat_df = game_stat_df.fillna(0)
+
+        # Extracts the home team lineup and the away team lineup
+        hdata = fjson['GC']['Gamesummary']['home_team_lineup']['players']
+        adata = fjson['GC']['Gamesummary']['visitor_team_lineup']['players']
+
+        # Converts the JSON to a Pandas dataframe
+        dfh = pd.DataFrame(hdata)
+        dfa = pd.DataFrame(adata)
+
+        # Appends the game number and a home/away flag to the dataframes
+        gamenodfh = pd.DataFrame(data={'GAME_ID' : [game_id], 'H_A' : ['H']})
+        finaldfh = dfh.assign(**gamenodfh.iloc[0])
+        gamenodfa = pd.DataFrame(data={'GAME_ID' : [game_id], 'H_A' : ['A']})
+        finaldfa = dfa.assign(**gamenodfa.iloc[0])
+
+        # Specify columns to keep in our final file and their order
+        col_list = ['GAME_ID', 'player_id', 'person_id', 'first_name', 'last_name','jersey_number', 'position_str', 'shots', 'shots_on', 'goals', 'assists', 'faceoff_wins', 'faceoff_attempts', 'plusminus', 'hits', 'pim', 'H_A']
+        finaldfh = finaldfh[col_list]
+        finaldfa = finaldfa[col_list]
+
+        finaldfh['team_name'] = fjson['GC']['Gamesummary']['home']['name']
+        finaldfa['team_name'] = fjson['GC']['Gamesummary']['visitor']['name']
+
+        game_df = pd.concat([finaldfh,finaldfa]).merge(game_stat_df, on = 'player_id', how = 'left')
+        game_df['game_number'] = game_number
+        game_df = game_df.fillna(0)
+
+        game = pd.concat([game,game_df], ignore_index= True)
+
+        print(game_number)
+
+    #export dataframe
+    game = game.fillna(0)
+    
+    game['player_id'] = game['player_id'].astype(str)
+
+    return game
