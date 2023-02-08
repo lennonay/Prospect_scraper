@@ -1,10 +1,14 @@
 import pandas as pd
 import requests
+from datetime import datetime
+
 
 def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
     #initialize variables lists
     name_list = [['goal_scorer','EV_G','PP_G','SH_G'], ['assist1_player','EV_A1','PP_A1','SH_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2']]
     plus_minus = [['plus','EV_GF'], ['minus','EV_GA']]
+    tolerance = 0
+    today = datetime.today().strftime('%Y-%m-%d')
 
     game = pd.DataFrame()
     for game_id in range(start_game_id, end_game_id):
@@ -13,6 +17,14 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
         response = requests.get(url)
 
         fjson = response.json()
+
+        if fjson['GC']['Gamesummary']['meta']['date_played'] > today:
+            tolerance += 1
+            if tolerance >= 3: 
+                game = game.fillna(0)
+                game['player_id'] = game['player_id'].astype(str)
+                return game
+            else: continue
 
         goals = fjson['GC']['Gamesummary']['goals']
         game_number = fjson['GC']['Gamesummary']['meta']['game_number']
@@ -75,11 +87,9 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
 
         game = pd.concat([game,game_df], ignore_index= True)
 
-        print(game_number)
+        print(game_id)
 
     #export dataframe
     game = game.fillna(0)
-    
     game['player_id'] = game['player_id'].astype(str)
-
     return game
