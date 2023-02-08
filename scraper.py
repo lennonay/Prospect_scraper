@@ -20,6 +20,7 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
 
         if fjson['GC']['Gamesummary']['meta']['date_played'] > today:
             tolerance += 1
+            print('Game {game_id} has not happened.'.format(game_id = game_id))
             if tolerance >= 3: 
                 game = game.fillna(0)
                 game['player_id'] = game['player_id'].astype(str)
