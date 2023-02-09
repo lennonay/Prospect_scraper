@@ -18,9 +18,9 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
 
         fjson = response.json()
 
-        if fjson['GC']['Gamesummary']['meta']['date_played'] > today:
+        if fjson['GC']['Gamesummary']['meta']['date_played'] >= today:
             tolerance += 1
-            print('Game {game_id} has not happened.'.format(game_id = game_id))
+            print('Game {game_id} has not yet happened.'.format(game_id = game_id))
             if tolerance >= 3: 
                 game = game.fillna(0)
                 game['player_id'] = game['player_id'].astype(str)
@@ -35,28 +35,29 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
 
         game_stat = {}
 
-        for goal_info in goals:
-            if goal_info['power_play'] == '1':
-                man_strength = 2
-            elif goal_info['short_handed'] == '1':
-                man_strength = 3
-            else: man_strength = 1
-            for name in name_list:
-                if goal_info[name[0]]['player_id'] not in game_stat.keys():
-                    game_stat[goal_info[name[0]]['player_id']]= {name[man_strength]: 1}
-                elif name[man_strength] not in game_stat[goal_info[name[0]]['player_id']].keys():
-                    game_stat[goal_info[name[0]]['player_id']][name[man_strength]] = 1
-                else: 
-                    game_stat[goal_info[name[0]]['player_id']][name[man_strength]]+=1
-            
-            if (len(goal_info['plus']) == 5) & (goal_info['empty_net'] == '0') & (goal_info['short_handed'] == '0'):
-                for sign in plus_minus:
-                    for player in goal_info[sign[0]]:
-                        if player['player_id'] not in game_stat.keys():
-                            game_stat[player['player_id']] = {sign[1]: 1}
-                        elif sign[1] not in game_stat[player['player_id']].keys():
-                            game_stat[player['player_id']][sign[1]] = 1
-                        else: game_stat[player['player_id']][sign[1]] += 1
+        if goals != None:
+            for goal_info in goals:
+                if goal_info['power_play'] == '1':
+                    man_strength = 2
+                elif goal_info['short_handed'] == '1':
+                    man_strength = 3
+                else: man_strength = 1
+                for name in name_list:
+                    if goal_info[name[0]]['player_id'] not in game_stat.keys():
+                        game_stat[goal_info[name[0]]['player_id']]= {name[man_strength]: 1}
+                    elif name[man_strength] not in game_stat[goal_info[name[0]]['player_id']].keys():
+                        game_stat[goal_info[name[0]]['player_id']][name[man_strength]] = 1
+                    else: 
+                        game_stat[goal_info[name[0]]['player_id']][name[man_strength]]+=1
+                
+                if (len(goal_info['plus']) == 5) & (goal_info['empty_net'] == '0') & (goal_info['short_handed'] == '0'):
+                    for sign in plus_minus:
+                        for player in goal_info[sign[0]]:
+                            if player['player_id'] not in game_stat.keys():
+                                game_stat[player['player_id']] = {sign[1]: 1}
+                            elif sign[1] not in game_stat[player['player_id']].keys():
+                                game_stat[player['player_id']][sign[1]] = 1
+                            else: game_stat[player['player_id']][sign[1]] += 1
         game_stat_df = pd.DataFrame(game_stat).T.reset_index().rename(columns={'index' : 'player_id'})
         game_stat_df = game_stat_df.fillna(0)
 
