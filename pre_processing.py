@@ -4,14 +4,14 @@ def stats_process(master):
 
     new_col_list = ['GAME_ID', 'game_number', 'H_A', 'team_name', 'player_id', 'person_id', 'name', 'birthdate', 'birthdate_year',
         'jersey_number', 'position_str', 'shots', 'shots_on', 'goals',
-        'assists', 'EVprimarypoints','primarypoints','plusminus', 'hits',
+        'assists','primarypoints','5v5primarypoints','EVprimarypoints','plusminus', 'hits',
         'pim', 'EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2',
-        'EV_GF', 'EV_GA', 'EV_GF%', 'faceoff_wins', 'faceoff_attempts']
+        '5v5 EV_GF', '5v5 EV_GA', '5v5 EV_GF%', 'faceoff_wins', 'faceoff_attempts']
 
-    master['EV_GF%'] = (master['EV_GF']/(master['EV_GA']+master['EV_GF']))
-    master['EV_GF%'] = master['EV_GF%'].fillna(0.50)
+    master['5v5 EV_GF%'] = (master['5v5 EV_GF']/(master['5v5 EV_GA']+master['5v5 EV_GF']))
+    master['5v5 EV_GF%'] = master['5v5 EV_GF%'].fillna(0.50)
 
-    stat_list = ['EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2','EV_GF', 'EV_GA']
+    stat_list = ['EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2','5v5_G', '5v5_A1', '5v5_A2','EV_GF', 'EV_GA']
 
     for column in stat_list:
         if column not in master:
@@ -20,6 +20,7 @@ def stats_process(master):
     master['name'] = master['first_name'] + ' ' + master['last_name']
 
     master['EVprimarypoints'] = master['EV_G'] + master['EV_A1']
+    master['5v5primarypoints'] = master['5v5_G'] + master['5v5_A1']
 
     # primary points all situations
     master['primarypoints'] = master['PP_G'] + master['PP_A1']  + master['EVprimarypoints'] + master['SH_G'] + master['SH_A1']
