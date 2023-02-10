@@ -41,6 +41,7 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
             
                 if (len(goal_info['plus']) == 5) & (goal_info['empty_net'] == '0') & (goal_info['short_handed'] == '0'):
                     ev5v5 = 1
+                else: ev5v5 =0
 
                 if goal_info['power_play'] == '1':
                     man_strength = 2
