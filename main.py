@@ -13,16 +13,16 @@ if __name__ == "__main__":
     if path.is_file():
         past_results = pd.read_csv('data/whl_game_stat.csv')
         start_game_id = past_results.iloc[-1]['GAME_ID']
-        file = True
+        file = 1
     else:
          start_game_id = 1018603 + 1
     
-    games_want = 600
+    games_want = 700
     end_game_id = 1018603 + games_want
 
     game_info = game_scrape(start_game_id, end_game_id)
 
-    #game_info.to_csv('data/whl_game_info_stat.csv',index=False)
+    game_info.to_csv('data/whl_game_info.csv',index=False)
 
     #roster_df = pd.read_csv('data/roster_2023-02-05.csv')
 
@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
     output = stats_process(game_info_dob)
 
-    if file ==True:
+    if file == 1:
         combined = pd.concat([past_results, output], ignore_index=True)
         combined.to_csv('data/whl_game_stat.csv',index=False)
     else: output.to_csv('data/whl_game_stat.csv',index=False)

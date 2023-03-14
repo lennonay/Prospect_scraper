@@ -30,7 +30,7 @@ def stats_process(master):
     master = master.fillna(0)
 
     master['birthdate_year'] = master['birthdate_year'].astype('int')
-    master['birthdate'] = pd.to_datetime(master['birthdate'])
-    master['birthdate'] = master['birthdate'].dt.date
+    #master['birthdate'] = pd.to_datetime(master['birthdate'])
+    #master['birthdate'] = master['birthdate'].dt.date
 
     return master

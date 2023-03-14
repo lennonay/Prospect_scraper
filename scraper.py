@@ -48,20 +48,21 @@ def game_scrape(start_game_id = 1019140 + 1, end_game_id = 1019140 + 11):
                 elif goal_info['short_handed'] == '1':
                     man_strength = 3
                 else: man_strength = 1
+                
                 for name in name_list:
                     if goal_info[name[0]]['player_id'] not in game_stat.keys():
                         game_stat[goal_info[name[0]]['player_id']]= {name[man_strength]: 1}
                         if ev5v5 == 1:
-                            game_stat[goal_info[name[0]]['player_id']] = {name[4]: 1}
+                            game_stat[goal_info[name[0]]['player_id']][name[4]] = 1
                     elif name[man_strength] not in game_stat[goal_info[name[0]]['player_id']].keys():
                         game_stat[goal_info[name[0]]['player_id']][name[man_strength]] = 1
                         if ev5v5 == 1:
-                            game_stat[goal_info[name[0]]['player_id']] = {name[4]: 1}
+                            game_stat[goal_info[name[0]]['player_id']][name[4]] = 1
                     else: 
                         game_stat[goal_info[name[0]]['player_id']][name[man_strength]]+=1
                         if ev5v5==1:
                             if name[4] not in game_stat[goal_info[name[0]]['player_id']].keys():
-                                game_stat[goal_info[name[0]]['player_id']] = {name[4]: 1}
+                                game_stat[goal_info[name[0]]['player_id']][name[4]] = 1
                             else:
                                 game_stat[goal_info[name[0]]['player_id']][name[4]] += 1
                 
