@@ -6,7 +6,7 @@ from datetime import datetime
 def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
     #initialize variables lists
     name_list = [['goal_scorer','EV_G','PP_G','SH_G', '5v5_G'], ['assist1_player','EV_A1','PP_A1','SH_A1','5v5_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2','5v5_A2']]
-    plus_minus = [['plus','5v5 EV_GF'], ['minus','5v5 EV_GA']]
+    plus_minus = [['plus','5v5_GF'], ['minus','5v5_GA']]
     tolerance = 0
     today = datetime.today().strftime('%Y-%m-%d')
 
