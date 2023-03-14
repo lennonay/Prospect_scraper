@@ -3,15 +3,20 @@ from scraper import game_scrape
 from pre_processing import stats_process
 from datetime import datetime
 import pandas as pd
+from pathlib import Path
 
 if __name__ == "__main__":
 
     today = datetime.today().strftime('%Y-%m-%d')
 
-    past_results = pd.read_csv('data/whl_game_stat.csv')
-    start_game_id = past_results.iloc[-1]['GAME_ID']
-
-    #start_game_id = 1018603 + 1
+    path = Path('data/whl_game_stat.csv')
+    if path.is_file():
+        past_results = pd.read_csv('data/whl_game_stat.csv')
+        start_game_id = past_results.iloc[-1]['GAME_ID']
+        file = True
+    else:
+         start_game_id = 1018603 + 1
+    
     games_want = 600
     end_game_id = 1018603 + games_want
 
@@ -29,6 +34,7 @@ if __name__ == "__main__":
 
     output = stats_process(game_info_dob)
 
-    combined = pd.concat([past_results, output], ignore_index=True)
-
-    combined.to_csv('data/whl_game_stat.csv',index=False)
+    if file ==True:
+        combined = pd.concat([past_results, output], ignore_index=True)
+        combined.to_csv('data/whl_game_stat.csv',index=False)
+    else: output.to_csv('data/whl_game_stat.csv',index=False)
