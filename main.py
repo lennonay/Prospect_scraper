@@ -8,12 +8,16 @@ if __name__ == "__main__":
 
     today = datetime.today().strftime('%Y-%m-%d')
 
-    start_game_id = 1018603 + 1
-    end_game_id = 1018603 + 537
+    past_results = pd.read_csv('data/whl_game_stat.csv')
+    start_game_id = past_results.iloc[-1]['GAME_ID']
+
+    #start_game_id = 1018603 + 1
+    games_want = 600
+    end_game_id = 1018603 + games_want
 
     game_info = game_scrape(start_game_id, end_game_id)
 
-    game_info.to_csv('data/whl_game_info_{start}_to_{end}.csv'.format(start = start_game_id, end = end_game_id-1),index=False)
+    game_info.to_csv('data/whl_game_info_stat.csv',index=False)
 
     #roster_df = pd.read_csv('data/roster_2023-02-05.csv')
 
@@ -25,4 +29,4 @@ if __name__ == "__main__":
 
     output = stats_process(game_info_dob)
 
-    output.to_csv('data/whl_game_{start}_to_{end}.csv'.format(start = start_game_id, end = end_game_id-1),index=False)
+    output.to_csv('data/whl_game_stat.csv',index=False)
