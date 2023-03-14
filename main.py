@@ -16,6 +16,7 @@ if __name__ == "__main__":
         file = 1
     else:
          start_game_id = 1018603 + 1
+         file = 0
     
     games_want = 700
     end_game_id = 1018603 + games_want
