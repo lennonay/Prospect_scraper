@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     game_info = game_scrape(start_game_id, end_game_id)
 
-    game_info.to_csv('data/whl_game_info_stat.csv',index=False)
+    #game_info.to_csv('data/whl_game_info_stat.csv',index=False)
 
     #roster_df = pd.read_csv('data/roster_2023-02-05.csv')
 
@@ -29,4 +29,6 @@ if __name__ == "__main__":
 
     output = stats_process(game_info_dob)
 
-    output.to_csv('data/whl_game_stat.csv',index=False)
+    combined = pd.concat([past_results, output], ignore_index=True)
+
+    combined.to_csv('data/whl_game_stat.csv',index=False)
