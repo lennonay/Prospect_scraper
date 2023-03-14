@@ -5,7 +5,7 @@ def stats_process(master):
     new_col_list = ['GAME_ID', 'game_number', 'H_A', 'team_name', 'player_id', 'person_id', 'name', 'birthdate', 'birthdate_year',
         'jersey_number', 'position_str', 'shots', 'shots_on', 'goals',
         'assists','primarypoints','5v5primarypoints','EVprimarypoints','plusminus', 'hits',
-        'pim', 'EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2',
+        'pim','5v5_G', '5v5_A1', '5v5_A2', 'EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2',
         '5v5_GF', '5v5_GA', '5v5_GF%', 'faceoff_wins', 'faceoff_attempts']
 
     master['5v5_GF%'] = (master['5v5_GF']/(master['5v5_GA']+master['5v5_GF']))
