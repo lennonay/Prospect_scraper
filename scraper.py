@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 
-def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
+def game_scrape(start_game_id = 1019140 + 1, end_game_id = 1019140 + 11):
     #initialize variables lists
     name_list = [['goal_scorer','EV_G','PP_G','SH_G', '5v5_G'], ['assist1_player','EV_A1','PP_A1','SH_A1','5v5_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2','5v5_A2']]
     plus_minus = [['plus','5v5_GF'], ['minus','5v5_GA']]
@@ -59,7 +59,11 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
                             game_stat[goal_info[name[0]]['player_id']] = {name[4]: 1}
                     else: 
                         game_stat[goal_info[name[0]]['player_id']][name[man_strength]]+=1
-                        game_stat[goal_info[name[0]]['player_id']][name[4]] += 1
+                        if ev5v5==1:
+                            if name[4] not in game_stat[goal_info[name[0]]['player_id']].keys():
+                                game_stat[goal_info[name[0]]['player_id']] = {name[4]: 1}
+                            else:
+                                game_stat[goal_info[name[0]]['player_id']][name[4]] += 1
                 
                 if ev5v5 == 1:
                     for sign in plus_minus:
@@ -106,3 +110,6 @@ def game_scrape(start_game_id = 1018603 + 1, end_game_id = 1018603 + 11):
     game = game.fillna(0)
     game['player_id'] = game['player_id'].astype(str)
     return game
+
+if __name__ == "__main__":
+    game_scrape()
