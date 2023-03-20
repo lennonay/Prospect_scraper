@@ -8,34 +8,43 @@ from pathlib import Path
 if __name__ == "__main__":
 
     today = datetime.today().strftime('%Y-%m-%d')
+    file1 = open("update.txt", "a")
 
-    path = Path('data/whl_game_stat.csv')
+    path_str = 'data/whl_game_stat.csv'
+
+    path = Path(path_str)
     if path.is_file():
-        past_results = pd.read_csv('data/whl_game_stat.csv')
-        start_game_id = past_results.iloc[-1]['GAME_ID']
+        past_results = pd.read_csv(path_str)
+        start_game_id = past_results.iloc[-1]['GAME_ID'] + 1
         file = 1
     else:
          start_game_id = 1018603 + 1
          file = 0
     
     games_want = 700
-    end_game_id = 1018603 + games_want
+    end_game_id = start_game_id + games_want
 
     game_info = game_scrape(start_game_id, end_game_id)
-
-    game_info.to_csv('data/whl_game_info.csv',index=False)
-
-    #roster_df = pd.read_csv('data/roster_2023-02-05.csv')
-
-    roster_df = roster()
     
-    roster_df.to_csv('data/roster_{date}.csv'.format(date = today),index=False)
+    if game_info!= None:  
+        
+        #roster_df = pd.read_csv('data/roster.csv')
 
-    game_info_dob = pd.merge(game_info,roster_df, on = ['player_id','first_name','last_name'], how = 'left')
+        roster_df = roster()
+        
+        roster_df.to_csv('data/roster.csv',index=False)
 
-    output = stats_process(game_info_dob)
+        game_info_dob = pd.merge(game_info,roster_df, on = ['player_id','first_name','last_name'], how = 'left')
 
-    if file == 1:
-        combined = pd.concat([past_results, output], ignore_index=True)
-        combined.to_csv('data/whl_game_stat.csv',index=False)
-    else: output.to_csv('data/whl_game_stat.csv',index=False)
+        output = stats_process(game_info_dob)
+
+        if file == 1:
+            combined = pd.concat([past_results, output], ignore_index=True)
+            combined.to_csv('data/whl_game_stat.csv',index=False)
+        else: output.to_csv('data/whl_game_stat.csv',index=False)
+
+        file1.write('last updated:' + today + '\n')
+        file1.close()
+
+    else:
+        print('No new update')
