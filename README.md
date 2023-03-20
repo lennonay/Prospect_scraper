@@ -1,5 +1,7 @@
 # WHL_prospect_stat
 
+[![schedule](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml/badge.svg)](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml) 
+
 Author: Lennon Au-Yeung
 
 This project is created for the UBC Men's Hockey Analytics and Scouting team.
