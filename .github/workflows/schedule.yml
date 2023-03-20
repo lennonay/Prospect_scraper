@@ -13,10 +13,12 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner.
+        
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.12 #install the python needed
+          python-version: "3.12" #install the python needed
+        
       - name: execute py script # run the run.py to get the latest data
         run: |
           python main.py
