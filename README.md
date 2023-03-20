@@ -1,4 +1,4 @@
-# WHL_prospect_stat
+# WHL Scraper
 
 [![schedule](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml/badge.svg)](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml) 
 
