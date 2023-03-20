@@ -1,10 +1,7 @@
 name: Schedule
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
+    - cron: "10 21 * * *" 
 
 jobs:
   build:
