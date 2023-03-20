@@ -43,8 +43,8 @@ if __name__ == "__main__":
             combined.to_csv('data/whl_game_stat.csv',index=False)
         else: output.to_csv('data/whl_game_stat.csv',index=False)
 
-        file1.write('last updated: ' + today + '\n')
-        file1.close()
-
     else:
         print('No new update')
+    
+    file1.write('last updated: ' + today + '\n')
+    file1.close()
