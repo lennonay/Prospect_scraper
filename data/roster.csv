@@ -70,7 +70,6 @@ player_id,first_name,last_name,birthdate,birthdate_year
 28808,Shea,Van Olm,2004-03-05,2004
 28176,Ashton,Ferster,2003-05-17,2003
 28279,Dylan,Ernst,2004-02-06,2004
-27812,Talyn,Boyko,2002-10-16,2002
 29331,Landon,Cowper,2006-07-05,2006
 29265,Ismail,Abougouche,2006-01-30,2006
 28824,Caden,Price,2005-08-24,2005
@@ -95,6 +94,7 @@ player_id,first_name,last_name,birthdate,birthdate_year
 28767,Andrew,Cristall,2005-02-04,2005
 29264,Logan,Peskett,2006-09-14,2006
 29082,Jari,Kykkanen,2004-08-16,2004
+27812,Talyn,Boyko,2002-10-16,2002
 28421,Logan,McCutcheon,2004-01-19,2004
 28422,Chase,Pauls,2003-10-07,2003
 28153,Nolan,Bentham,2003-06-12,2003
@@ -146,6 +146,7 @@ player_id,first_name,last_name,birthdate,birthdate_year
 28296,Denton,Mateychuk,2004-07-12,2004
 28884,Robert,Baco,2003-02-05,2003
 28094,Eric,Alarie,2003-01-27,2003
+29226,Connor,Schmidt,2007-03-20,2007
 28899,Harper,Lolacher,2005-01-30,2005
 29127,Cosmo,Wilson,2005-01-09,2005
 27909,Logan,Dowhaniuk,2002-06-20,2002
@@ -162,6 +163,7 @@ player_id,first_name,last_name,birthdate,birthdate_year
 28780,Brayden,Yager,2005-01-03,2005
 28812,Jackson,Unger,2005-01-13,2005
 28228,Connor,Ungar,2002-01-12,2002
+29334,Dimitri,Fortin,2006-05-19,2006
 27888,Ryder,Korczak,2002-09-23,2002
 28898,Matthew,Gallant,2004-01-16,2004
 28847,Josh,Mori,2004-03-27,2004
@@ -210,8 +212,7 @@ player_id,first_name,last_name,birthdate,birthdate_year
 29149,Grady,Martin,2006-04-26,2006
 28914,Harrison,Lodewyk,2005-03-01,2005
 28811,Max,Hildebrand,2004-06-29,2004
-29301,Ethan,Bibeau,2007-01-01,2007
-29153,Oli,Chenier,2007-01-26,2007
+29151,Ryan,Gower,2007-04-29,2007
 28917,Bauer,Dumanski,2005-01-05,2005
 28921,Ephram,McNutt,2005-05-04,2005
 28411,Ethan,Samson,2003-08-23,2003

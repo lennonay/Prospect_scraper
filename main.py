@@ -8,7 +8,7 @@ from pathlib import Path
 if __name__ == "__main__":
 
     today = datetime.today().strftime('%Y-%m-%d')
-    file1 = open("update.txt", "a")
+    file1 = open("data/update.txt", "a")
 
     path_str = 'data/whl_game_stat.csv'
 
@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
     game_info = game_scrape(start_game_id, end_game_id)
     
-    if game_info!= None:  
+    if isinstance(game_info, pd.DataFrame):
         
         #roster_df = pd.read_csv('data/roster.csv')
 
