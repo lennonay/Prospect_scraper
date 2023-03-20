@@ -1,5 +1,3 @@
-import pandas as pd
-
 def stats_process(master):
 
     new_col_list = ['GAME_ID', 'game_number', 'H_A', 'team_name', 'player_id', 'person_id', 'name', 'birthdate', 'birthdate_year',
