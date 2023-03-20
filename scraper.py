@@ -22,6 +22,8 @@ def game_scrape(start_game_id = 1019140 + 1, end_game_id = 1019140 + 11):
             tolerance += 1
             print('Game {game_id} has not yet happened.'.format(game_id = game_id))
             if tolerance >= 3: 
+                if game.shape == (0,0):
+                    return None
                 game = game.fillna(0)
                 game['player_id'] = game['player_id'].astype(str)
                 return game
