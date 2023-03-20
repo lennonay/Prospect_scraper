@@ -5,14 +5,14 @@ from datetime import datetime
 import pandas as pd
 from pathlib import Path
 
-if __name__ == "__main__":
+def main(roster_update = 0):
 
     today = datetime.today().strftime('%Y-%m-%d')
     file1 = open("data/update.txt", "a")
 
     path_str = 'data/whl_game_stat.csv'
-
     path = Path(path_str)
+
     if path.is_file():
         past_results = pd.read_csv(path_str)
         start_game_id = past_results.iloc[-1]['GAME_ID'] + 1
@@ -21,7 +21,7 @@ if __name__ == "__main__":
          start_game_id = 1018603 + 1
          file = 0
     
-    games_want = 700
+    games_want = 5
     end_game_id = start_game_id + games_want
 
     game_info = game_scrape(start_game_id, end_game_id)
@@ -30,9 +30,12 @@ if __name__ == "__main__":
         
         #roster_df = pd.read_csv('data/roster.csv')
 
-        roster_df = roster()
-        
-        roster_df.to_csv('data/roster.csv',index=False)
+        if roster_update == 1:
+            roster_df = roster()  
+            roster_df.to_csv('data/roster.csv',index=False)
+        else: 
+            roster_df = pd.read_csv('data/roster.csv')
+            roster_df['player_id'] = roster_df['player_id'].astype(str)
 
         game_info_dob = pd.merge(game_info,roster_df, on = ['player_id','first_name','last_name'], how = 'left')
 
@@ -48,3 +51,6 @@ if __name__ == "__main__":
     
     file1.write('last updated: ' + today + '\n')
     file1.close()
+
+if __name__ == "__main__":
+    main(roster_update=0)
