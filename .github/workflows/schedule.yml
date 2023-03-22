@@ -1,10 +1,7 @@
 name: Schedule
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "0 1 * * *" 
+    - cron: "0 15 * * *" 
 
 jobs:
   build:

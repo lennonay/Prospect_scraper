@@ -18,8 +18,6 @@ def game_scrape(start_game_id, end_game_id):
 
         fjson = response.json()
 
-        print(datetime.today())
-
         if fjson['GC']['Gamesummary']['meta']['date_played'] >= today:
             tolerance += 1
             print('Game {game_id} has not yet happened.'.format(game_id = game_id))
