@@ -18,7 +18,7 @@ def game_scrape(start_game_id, end_game_id):
 
         fjson = response.json()
 
-        print(today)
+        print(datetime.today())
 
         if fjson['GC']['Gamesummary']['meta']['date_played'] >= today:
             tolerance += 1
