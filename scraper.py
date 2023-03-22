@@ -7,6 +7,7 @@ def game_scrape(start_game_id, end_game_id):
     #initialize variables lists
     name_list = [['goal_scorer','EV_G','PP_G','SH_G', '5v5_G'], ['assist1_player','EV_A1','PP_A1','SH_A1','5v5_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2','5v5_A2']]
     plus_minus = [['plus','5v5_GF'], ['minus','5v5_GA']]
+    tolerance = 0
     today = datetime.today().strftime('%Y-%m-%d')
 
     game = pd.DataFrame()
@@ -17,15 +18,18 @@ def game_scrape(start_game_id, end_game_id):
 
         fjson = response.json()
 
+        print(today)
+
         if fjson['GC']['Gamesummary']['meta']['date_played'] >= today:
+            tolerance += 1
             print('Game {game_id} has not yet happened.'.format(game_id = game_id))
-            if game.shape == (0,0):
+            if tolerance >= 3: 
+                if game.shape == (0,0):
                     return None
-            else:
                 game = game.fillna(0)
                 game['player_id'] = game['player_id'].astype(str)
                 return game
-
+            else: continue
 
         goals = fjson['GC']['Gamesummary']['goals']
         game_number = fjson['GC']['Gamesummary']['meta']['game_number']
@@ -113,4 +117,4 @@ def game_scrape(start_game_id, end_game_id):
     return game
 
 if __name__ == "__main__":
-    game_scrape(1019323, 1019324)
+    game_scrape(1019323, 1019330)
