@@ -21,7 +21,7 @@ def main(roster_update = 0):
          start_game_id = 1018603 + 1
          file = 0
     
-    games_want = 5
+    games_want = 50
     end_game_id = start_game_id + games_want
 
     game_info = game_scrape(start_game_id, end_game_id)
