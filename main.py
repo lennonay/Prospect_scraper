@@ -8,7 +8,7 @@ from pathlib import Path
 def main(roster_update = 0):
 
     today = datetime.today().strftime('%Y-%m-%d')
-    file1 = open("data/update.txt", "a")
+    file1 = open("data/update.txt", "w")
 
     path_str = 'data/whl_game_stat.csv'
     path = Path(path_str)
