@@ -29,17 +29,17 @@ jobs:
           
       - name: Get current date
         id: date
-        run: echo "::set-env name=DATE::$(date +'%Y-%m-%d')"
-
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+          
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "update data ${{DATE}}" -a
+          git commit -m "update data ${{ steps.date.outputs.date }}" -a
           
       - name: push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main  
