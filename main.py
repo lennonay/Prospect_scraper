@@ -4,50 +4,57 @@ from pre_processing import stats_process
 from datetime import datetime
 import pandas as pd
 from pathlib import Path
+from schedule import schedule  
 
 def main(roster_update = 0):
 
     today = datetime.today().strftime('%Y-%m-%d')
     file1 = open("data/update.txt", "w")
 
-    path_str = 'data/whl_game_stat.csv'
-    path = Path(path_str)
+    league_info = pd.read_csv('data/league_info.csv')
 
-    if path.is_file():
-        past_results = pd.read_csv(path_str)
-        start_game_id = past_results.iloc[-1]['GAME_ID'] + 1
-        file = 1
-    else:
-         start_game_id = 1018603 + 1
-         file = 0
-    
-    games_want = 50
-    end_game_id = start_game_id + games_want
+    for i in range(len(league_info)):
+        path_str = 'data/' + league_info.iloc[i]['name'] + '.csv'
+        path = Path(path_str)
 
-    game_info = game_scrape(start_game_id, end_game_id)
-    
-    if isinstance(game_info, pd.DataFrame):
+        if path.is_file(): 
+            game_file = pd.read_csv(path_str)
+            schedule_game_id = set(schedule(league_info.iloc[i]))
+            game_id_scrape = list((set(schedule_game_id)- set(game_file['GAME_ID'].astype(str))))
+
+            if len(game_id_scrape) == 0:
+                print('No new update for {}'.format(league_info.iloc[i]['name']))
+                continue
+
+            file = 1
         
-        #roster_df = pd.read_csv('data/roster.csv')
+        else:
+            game_id_scrape = set(schedule(league_info.iloc[i]))
+            file = 0
+        
+        #get game stats
+        game_info = game_scrape(game_id_scrape, league_info.iloc[i])
 
-        if roster_update == 1:
-            roster_df = roster()  
-            roster_df.to_csv('data/roster.csv',index=False)
-        else: 
-            roster_df = pd.read_csv('data/roster.csv')
+        #constructing roster
+        roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
+        roster_path = Path(roster_path_str)
+
+        if roster_update == 0 and roster_path.is_file():
+            roster_df = pd.read_csv(roster_path_str)
             roster_df['player_id'] = roster_df['player_id'].astype(str)
+        else: 
+            roster_df = roster(league_info.iloc[i])
+            roster_df.to_csv(roster_path_str,index=False)
 
         game_info_dob = pd.merge(game_info,roster_df, on = ['player_id','first_name','last_name'], how = 'left')
 
         output = stats_process(game_info_dob)
 
         if file == 1:
-            combined = pd.concat([past_results, output], ignore_index=True)
-            combined.to_csv('data/whl_game_stat.csv',index=False)
-        else: output.to_csv('data/whl_game_stat.csv',index=False)
+            combined = pd.concat([game_file, output], ignore_index=True)
+            combined.to_csv(path_str,index=False)
+        else: output.to_csv(path_str,index=False)
 
-    else:
-        print('No new update')
     
     file1.write('last updated: ' + today + '\n')
     file1.close()
