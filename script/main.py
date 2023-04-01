@@ -1,10 +1,10 @@
-from roster import roster
-from scraper import game_scrape
-from pre_processing import stats_process
+from script.roster import roster
+from script.scraper import game_scrape
+from script.pre_processing import stats_process
 from datetime import datetime
 import pandas as pd
 from pathlib import Path
-from schedule import schedule  
+from script.schedule import schedule  
 
 def main(roster_update = 0):
 
