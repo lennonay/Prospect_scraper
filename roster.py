@@ -1,15 +1,15 @@
 import pandas as pd
 import requests
 
-def roster():
+def roster(league_info):
 
-    start_team_id = 201
-    end_team_id = 227
-    team_id = 205
+    start_team_id = league_info['roster_start']
+    end_team_id = league_info['roster_end']
 
     roster_info = {}
     for team_id in range(start_team_id, end_team_id+1):
-        url = 'https://lscluster.hockeytech.com/feed/?feed=modulekit&view=roster&key=41b145a848f4bd67&fmt=json&client_code=whl&lang=en&season_id=279&team_id={team_id}&fmt=json'.format(team_id = team_id)
+        url = 'https://lscluster.hockeytech.com/feed/?feed=modulekit&view=roster&key={key}&fmt=json&client_code={league}&lang=en&season_id={season}&team_id={team_id}&fmt=json'.format(
+            team_id = team_id, key = league_info['key'], season = league_info['season'], league = league_info['league'])
         print(team_id)
         response = requests.get(url)
         

@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 
-def game_scrape(start_game_id, end_game_id):
+def game_scrape(game_id_scrape, league_info):
     #initialize variables lists
     name_list = [['goal_scorer','EV_G','PP_G','SH_G', '5v5_G'], ['assist1_player','EV_A1','PP_A1','SH_A1','5v5_A1'], ['assist2_player','EV_A2','PP_A2','SH_A2','5v5_A2']]
     plus_minus = [['plus','5v5_GF'], ['minus','5v5_GA']]
@@ -11,9 +11,10 @@ def game_scrape(start_game_id, end_game_id):
     today = datetime.today().strftime('%Y-%m-%d')
 
     game = pd.DataFrame()
-    for game_id in range(start_game_id, end_game_id):
+    for game_id in (game_id_scrape):
         
-        url = 'https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id={event_id}&lang_code=en&fmt=json&tab=gamesummary'.format(event_id = game_id)
+        url = 'https://cluster.leaguestat.com/feed/index.php?feed=gc&key={key}&client_code={league}&game_id={event_id}&lang_code=en&fmt=json&tab=gamesummary'.format(
+            event_id = game_id, key = league_info['key'], league = league_info['league'])
         response = requests.get(url)
 
         fjson = response.json()
@@ -115,4 +116,4 @@ def game_scrape(start_game_id, end_game_id):
     return game
 
 if __name__ == "__main__":
-    game_scrape(1019323, 1019330)
+    game_scrape([1019323])
