@@ -20,12 +20,10 @@ def roster(league_info):
                 roster_info[player_data[player]['player_id']] = {
                 'first_name':player_data[player]['first_name'],
                 'last_name':player_data[player]['last_name'],
-                'birthdate':player_data[player]['birthdate'],
                 'birthdate_year':player_data[player]['birthdate_year']}
 
     roster_df = pd.DataFrame(roster_info).T.reset_index().rename(columns={'index' : 'player_id'})
 
-    roster_df['birthdate'] = pd.to_datetime(roster_df['birthdate'])
     roster_df['birthdate_year'] = '20' + roster_df['birthdate_year'].str[1:]
     roster_df['player_id'] = roster_df['player_id'].astype(str)
 

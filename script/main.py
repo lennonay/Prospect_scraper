@@ -34,6 +34,7 @@ def main(roster_update = 0):
         
         #get game stats
         game_info = game_scrape(game_id_scrape, league_info.iloc[i])
+        game_info.to_csv('data/interim.csv', index =False)
 
         #constructing roster
         roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
