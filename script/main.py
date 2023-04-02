@@ -5,6 +5,8 @@ from datetime import datetime
 import pandas as pd
 from pathlib import Path
 from schedule import schedule  
+from functools import partial
+from multiprocessing import Pool
 
 def main(roster_update = 0):
 
@@ -32,8 +34,16 @@ def main(roster_update = 0):
             game_id_scrape = set(schedule(league_info.iloc[i]))
             file = 0
         
-        #get game stats
-        game_info = game_scrape(game_id_scrape, league_info.iloc[i])
+        game_id_scrape = list(game_id_scrape)
+        game_id_scrape.sort()
+
+        pool = Pool(30)
+        func = partial(game_scrape, league_info.iloc[i])
+        game_info = pool.map(func, game_id_scrape)
+        pool.close()
+        pool.join()
+
+        game_info = pd.concat(game_info, axis=0).reindex()
         game_info.to_csv('data/interim.csv', index =False)
 
         #constructing roster
