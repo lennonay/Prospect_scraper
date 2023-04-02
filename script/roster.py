@@ -10,14 +10,13 @@ def roster(league_info):
     for team_id in range(start_team_id, end_team_id+1):
         url = 'https://lscluster.hockeytech.com/feed/?feed=modulekit&view=roster&key={key}&fmt=json&client_code={league}&lang=en&season_id={season}&team_id={team_id}&fmt=json'.format(
             team_id = team_id, key = league_info['key'], season = league_info['season'], league = league_info['league'])
-        print(team_id)
         response = requests.get(url)
         
         fjson = response.json()
         player_data = fjson['SiteKit']['Roster']
 
-        if len(player_data) > 0:
-            for player in range(0, len(player_data)-1):
+        if len(player_data) > 1:
+            for player in range(0, len(player_data)-1):   
                 roster_info[player_data[player]['player_id']] = {
                 'first_name':player_data[player]['first_name'],
                 'last_name':player_data[player]['last_name'],
