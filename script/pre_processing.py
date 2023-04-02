@@ -6,8 +6,9 @@ def stats_process(master):
         'pim','5v5_G', '5v5_A1', '5v5_A2', 'EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2',
         '5v5_GF', '5v5_GA', '5v5_GF%', 'faceoff_wins', 'faceoff_attempts']
 
-    master['5v5_GF%'] = (master['5v5_GF']/(master['5v5_GA']+master['5v5_GF']))
-    master['5v5_GF%'] = master['5v5_GF%'].fillna(0.50)
+    if '5v5_GF' in master.columns:
+        master['5v5_GF%'] = (master['5v5_GF']/(master['5v5_GA']+master['5v5_GF']))
+        master['5v5_GF%'] = master['5v5_GF%'].fillna(0.50)
 
     stat_list = ['EV_G', 'EV_A1', 'EV_A2', 'PP_G', 'PP_A1', 'PP_A2', 'SH_G','SH_A1', 'SH_A2','5v5_G', '5v5_A1', '5v5_A2']
 
