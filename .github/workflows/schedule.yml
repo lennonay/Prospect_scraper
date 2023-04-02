@@ -22,7 +22,7 @@ jobs:
         
       - name: execute py script
         run: |
-          python -m script.main
+          python main.py
           
       - name: Get current date
         id: date

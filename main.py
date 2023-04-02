@@ -1,10 +1,10 @@
-from roster import roster
-from scraper import game_scrape
-from pre_processing import stats_process
+from script.roster import roster
+from script.scraper import game_scrape
+from script.pre_processing import stats_process
 from datetime import datetime
 import pandas as pd
 from pathlib import Path
-from schedule import schedule  
+from script.schedule import schedule  
 from functools import partial
 from multiprocessing import Pool
 
@@ -66,9 +66,9 @@ def main(roster_update = 0):
             combined.to_csv(path_str,index=False)
         else: output.to_csv(path_str,index=False)
 
-    
     file1.write('last updated: ' + today + '\n')
     file1.close()
 
 if __name__ == "__main__":
     main(roster_update=0)
+    print('Finished')
