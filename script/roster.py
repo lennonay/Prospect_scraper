@@ -25,6 +25,12 @@ def roster(league_info):
     roster_df = pd.DataFrame(roster_info).T.reset_index().rename(columns={'index' : 'player_id'})
 
     roster_df['birthdate_year'] = '20' + roster_df['birthdate_year'].str[1:]
+    roster_df.loc[roster_df['birthdate_year'] == '20', 'birthdate_year'] = '0'
     roster_df['player_id'] = roster_df['player_id'].astype(str)
 
     return roster_df
+
+if __name__ == "__main__":
+    league_info = pd.read_csv('data/league_info.csv')
+    df = roster(league_info.iloc[-1])
+    print(df['birthdate_year'].unique())
