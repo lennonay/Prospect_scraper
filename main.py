@@ -44,7 +44,6 @@ def main(roster_update = 0):
         pool.join()
 
         game_info = pd.concat(game_info, axis=0).reindex()
-        game_info.to_csv('data/interim.csv', index =False)
 
         #constructing roster
         roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
