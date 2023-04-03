@@ -7,7 +7,7 @@ Author: Lennon Au-Yeung
 This project is created for the UBC Men's Hockey Analytics and Scouting team.
 
 ## About
-This project aims to provide players statistics on potential recruits from the WHL for the UBC Men's Hockey team. All data collected in this project is from the official WHL and BCHL website.
+This project aims to provide players statistics on potential recruits from the WHL for the UBC Men's Hockey team. All data collected in this project is from the official WHL and BCHL website. It automatically runs daily github action to scrape new data from the websites.
 
 ## Functions
 
