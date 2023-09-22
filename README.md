@@ -1,6 +1,6 @@
 # Prospect Scraper
 
-[![schedule](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml/badge.svg)](https://github.com/lennonay/WHL_prospect_stat/actions/workflows/schedule.yml) 
+[![Schedule](https://github.com/lennonay/Prospect_scraper/actions/workflows/schedule.yml/badge.svg?branch=main)](https://github.com/lennonay/Prospect_scraper/actions/workflows/schedule.yml)
 
 Author: Lennon Au-Yeung
 
