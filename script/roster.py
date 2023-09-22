@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import numpy as np
 
 def roster(league_info):
 
@@ -20,7 +21,8 @@ def roster(league_info):
                 roster_info[player_data[player]['player_id']] = {
                 'first_name':player_data[player]['first_name'],
                 'last_name':player_data[player]['last_name'],
-                'birthdate_year':player_data[player]['birthdate_year']}
+                'birthdate_year':player_data[player]['birthdate_year'],
+                'birth_date':player_data[player]['birthdate']}
 
     roster_df = pd.DataFrame(roster_info).T.reset_index().rename(columns={'index' : 'player_id'})
 
@@ -28,9 +30,16 @@ def roster(league_info):
     roster_df.loc[roster_df['birthdate_year'] == '20', 'birthdate_year'] = '0'
     roster_df['player_id'] = roster_df['player_id'].astype(str)
 
+    roster_df['birth_date'] = pd.to_datetime(roster_df['birth_date'])
+    if (league_info['league'] == 'whl') & league_info['name'].startswith('WHL_2023_24_'):
+        roster_df['OA'] = np.where((roster_df['birth_date']>='2002-09-23') & (roster_df['birth_date']<='2003-09-22'), 'OA',' ')
+    
+    roster_df = roster_df.fillna(' ')
+
     return roster_df
 
 if __name__ == "__main__":
     league_info = pd.read_csv('data/league_info.csv')
-    df = roster(league_info.iloc[-1])
-    print(df['birthdate_year'].unique())
+    df = roster(league_info.iloc[2])
+    print(df)
+    #print(df['birthdate_year'].unique())
