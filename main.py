@@ -69,5 +69,5 @@ def main(roster_update = 0):
     file1.close()
 
 if __name__ == "__main__":
-    main(roster_update=0)
+    main(roster_update=1)
     print('Finished')
