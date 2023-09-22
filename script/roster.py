@@ -30,7 +30,7 @@ def roster(league_info):
     roster_df.loc[roster_df['birthdate_year'] == '20', 'birthdate_year'] = '0'
     roster_df['player_id'] = roster_df['player_id'].astype(str)
 
-    roster_df['OA'] = 'N/A'
+    roster_df['OA'] = ' '
     roster_df['birth_date'] = pd.to_datetime(roster_df['birth_date'], errors = 'coerce')
     if (league_info['league'] == 'whl') & league_info['name'].startswith('WHL_2023_24_'):
         roster_df['OA'] = np.where((roster_df['birth_date']>='2002-09-23') & (roster_df['birth_date']<='2003-09-22'), 'OA',' ')
