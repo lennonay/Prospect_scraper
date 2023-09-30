@@ -6,7 +6,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 29444,Jaxon,Jacobson,2008,2008-12-11,0
 29221,Caleb,Hadland,2006,2006-03-06,0
 28357,Jayden,Wiens,2003,2003-07-18,OA
-28835,Zach,Turner,2004,2004-01-07,0
 29112,Roger,McQueen,2006,2006-10-02,0
 29219,Joby,Baumuller,2007,2007-07-20,0
 28381,Rylen,Roersma,2004,2004-07-25,0
@@ -17,11 +16,10 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 28800,Luke,Shipley,2004,2004-08-08,0
 28309,Ben,Thornton,2004,2004-02-02,0
 28486,Nate,Danielson,2004,2004-09-27,0
-28886,Carson,Bjarnason,2005,2005-06-30,0
-28443,Nicholas,Jones,2004,2004-10-15,0
 29314,Easton,Odut,2007,2007-08-27,0
 29224,Andrei,Maliavin,2004,2004-01-30,0
 28738,Kayden,Sadhra-Kang,2003,2003-05-25,OA
+28886,Carson,Bjarnason,2005,2005-06-30,0
 28380,Brett,Hyland,2003,2003-02-18,OA
 29453,Dominik,Petr,2005,2005-04-30,0
 28321,Dawson,Pasternak,2003,2003-04-06,OA
@@ -40,7 +38,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 28098,Sean,Tschigerl,2003,2003-04-11,OA
 28429,Grayden,Siepmann,2004,2004-05-26,0
 28103,Tyson,Galloway,2003,2003-01-20,OA
-29345,Benjamin,Kindel,2007,2007-04-04,0
+29345,Ben,Kindel,2007,2007-04-19,0
 28796,Carter,MacAdams,2004,2004-03-07,0
 28930,Carter,Yakemchuk,2005,2005-09-29,0
 28368,Jason,Spizawka,2004,2004-01-16,0
@@ -114,7 +112,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 29211,Will,Sharpe,2007,2007-03-07,0
 28709,Logan,Wormald,2005,2005-08-12,0
 28826,Brayden,Edwards,2004,2004-12-23,0
-29318,Aiden,Ziprick,2005,2005-12-08,0
 28382,Tyson,Zimmer,2004,2004-09-05,0
 28356,Hayden,Smith,2004,2004-07-16,0
 28364,Carter,Dereniwsky,2004,2004-02-27,0
@@ -161,6 +158,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 29445,Patrik,Kral,2006,2006-05-09,0
 29228,Ethan,Hughes,2006,2006-10-08,0
 29486,Pavel,McKenzie,2005,2005-10-08,0
+29318,Aiden,Ziprick,2005,2005-12-08,0
 28302,Atley,Calvert,2003,2003-09-17,OA
 29333,Samuel,Borschowa,2005,2005-01-21,0
 28299,Jagger,Firkus,2004,2004-04-29,0
@@ -207,7 +205,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 28739,Easton,Kovacs,2004,2004-11-29,0
 28536,Terrell,Goldsmith,2005,2005-05-13,0
 28825,Hayden,Pakkala,2004,2004-01-28,0
-28789,Owen,Boucher,2004,2004-02-15,0
 28870,Brayden,Dube,2005,2005-09-22,0
 29053,Cole,Peardon,2006,2006-03-26,0
 29153,Oli,Chenier,2007,2007-01-26,0
@@ -311,7 +308,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 28355,Spencer,Shugrue,2003,2003-07-09,OA
 28733,Lukas,Hansen,2005,2005-02-22,0
 28903,Jordan,Keller,2005,2005-03-08,0
-29423,Ryley,Budd,2008,2008-05-09,0
 28734,Austin,Elliott,2004,2004-05-14,0
 28998,Evan,Gardner,2006,2006-06-25,0
 29096,Zach,Moore,2006,2006-06-07,0
@@ -330,6 +326,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 28335,Jordan,Gustafson,2004,2004-01-20,0
 29125,Bryce,Pickford,2006,2006-04-02,0
 28872,Coster,Dunn,2005,2005-09-13,0
+28789,Owen,Boucher,2004,2004-02-15,0
 28350,Kevin,Korchinski,2004,2004-06-21,0
 28346,Mekai,Sanders,2003,2003-05-08,OA
 28336,Sam,Popowich,2003,2003-05-21,OA
@@ -475,7 +472,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 29239,Jakob,Oreskovic,2007,2007-01-10,0
 29442,Adam,Titlbach,2006,2006-02-15,0
 28549,Tyler,Thorpe,2005,2005-08-11,0
-28312,Brenden,Pentecost,2003,2003-04-02,OA
 28378,Logen,Hammett,2003,2003-04-03,OA
 29081,Justin,Ivanusec,2006,2006-01-24,0
 28797,Kyren,Gronick,2004,2004-02-27,0
@@ -503,13 +499,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,OA
 29077,Jesse,Heslop,2006,2006-04-18,0
 28933,Rylan,Pearce,2005,2005-10-09,0
 29078,Tarin,Smith,2006,2006-03-24,0
-29338,Lukas,Kaplan,2007,2007-06-30,0
 29197,Andrew,Petruk,2005,2005-06-08,0
 28525,Niko,Tsakumis,2005,2005-07-05,0
 28395,Teague,Patton,2003,2003-12-15,0
 28956,Tyler,Palmer,2003,2003-06-27,OA
 28352,Ethan,Chadwick,2004,2004-01-27,0
-29401,Beck,Boiteau,2006,2006-02-04,0
 28687,Kaden,Hammell,2005,2005-03-12,0
 28922,Caden,Brown,2005,2005-03-22,0
 28862,Kyan,Grouette,2005,2005-01-07,0
