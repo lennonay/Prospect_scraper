@@ -22,7 +22,9 @@ def roster(league_info):
                 'first_name':player_data[player]['first_name'],
                 'last_name':player_data[player]['last_name'],
                 'birthdate_year':player_data[player]['birthdate_year'],
-                'birth_date':player_data[player]['birthdate']}
+                'birth_date':player_data[player]['birthdate'],
+                'homeprov':player_data[player]['homeprov'],
+                'homecntry':player_data[player]['homecntry']}
 
     roster_df = pd.DataFrame(roster_info).T.reset_index().rename(columns={'index' : 'player_id'})
 
