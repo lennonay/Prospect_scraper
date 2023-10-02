@@ -37,11 +37,18 @@ def roster(league_info):
     if (league_info['league'] == 'whl') & league_info['name'].startswith('WHL_2023_24_'):
         roster_df['OA'] = np.where((roster_df['birth_date']>='2002-09-23') & (roster_df['birth_date']<='2003-09-22'), 'OA','0')
     roster_df['birth_date']  = roster_df['birth_date'] .dt.date
+
+    if 'homeprov' not in roster_df:
+         roster_df['homeprov'] = 'N/A'
+    if 'homecntry' not in roster_df:
+         roster_df['homecntry'] = 'N/A'     
+
     return roster_df
 
 if __name__ == "__main__":
     league_info = pd.read_csv('data/league_info.csv')
     for i in range(len(league_info)):
+            print(league_info.iloc[i]['name'])
             roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
             roster_df = roster(league_info.iloc[i])
             roster_df.to_csv(roster_path_str,index=False)
