@@ -5,8 +5,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
 29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
-28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
+28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
 29219,Joby,Baumuller,2007,2007-07-20,SK,,0
 28381,Rylen,Roersma,2004,2004-07-25,AB,,0
 29223,Carter,Klippenstein,2006,2006-11-25,AB,,0
@@ -31,7 +31,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
 28927,Matteo,Danis,2005,2005-03-27,AB,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
-29243,Tomis,Marinkovic,2004,2004-02-15,BC,,0
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,0
 29129,Carson,Wetsch,2006,2006-05-04,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
@@ -42,7 +41,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 28796,Carter,MacAdams,2004,2004-03-07,BC,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
-28368,Jason,Spizawka,2004,2004-01-16,BC,,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 28477,Ethan,Buenaventura,2004,2004-06-22,MB,,0
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
@@ -148,7 +146,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
 28085,Lucas,Brenton,2003,2003-04-23,MB,Canada,OA
 28296,Denton,Mateychuk,2004,2004-07-12,MB,Canada,0
-28094,Eric,Alarie,2003,2003-01-27,MB,Canada,OA
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
 28899,Harper,Lolacher,2005,2005-01-30,SK,Canada,0
 29127,Cosmo,Wilson,2005,2005-01-09,BC,Canada,0
@@ -157,6 +154,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
 29121,Lynden,Lakovic,2006,2006-12-12,BC,Canada,0
 29445,Patrik,Kral,2006,2006-05-09,,Czech Republic,0
+28885,Martin,Rysavy,2003,2003-03-06,,Czech Republic,OA
 29486,Pavel,McKenzie,2005,2005-10-08,SK,Canada,0
 29318,Aiden,Ziprick,2005,2005-12-08,MB,,0
 29228,Ethan,Hughes,2006,2006-10-08,AB,Canada,0
