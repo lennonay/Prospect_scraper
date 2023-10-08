@@ -92,6 +92,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28229,Jackson,DeSouza,2003,2003-03-21,CO,USA,OA
 28767,Andrew,Cristall,2005,2005-02-04,BC,,0
 29007,Hiroki,Gojsic,2006,2006-05-01,BC,,0
+29511,Nathan,Kam,2007,2007-07-21,BC,,0
 29082,Jari,Kykkanen,2004,2004-08-16,AB,,0
 29275,Jake,Pilon,2006,2006-10-12,AB,,0
 28421,Logan,McCutcheon,2004,2004-01-19,SK,,0
@@ -409,7 +410,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29488,Max,Curran,2006,2006-08-27,,Czechia,0
 28425,Brandon,Whynott,2004,2004-04-16,BC,,0
 28732,Pasha,Bocharov,2004,2004-02-21,CA,USA,0
-29489,Lukas,Matecha,2005,2005-03-21,,Czecia,0
+29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
 29285,Adam,Mechura,2003,2003-01-31,,Czechia,OA
 28881,Nick,Avakyan,2004,2004-02-18,CA,United States,0
 28745,Alex,Serraglio,2003,2003-02-10,BC ,Canada,OA
@@ -536,7 +537,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28076,Marc,Lajoie,2003,2003-05-21,AB,Canada,OA
 28845,Ben,Wright,2005,2005-10-23,BC,,0
 28497,Rhett,Melnyk,2004,2004-05-16,AB,Canada,0
-28379,Jacob,Hoffrogge,2003,2003-02-18,SK,,OA
 28926,Mason,Finley,2004,2004-12-13,BC,,0
 28399,Kolby,Hay,2004,2004-05-14,BC,,0
 28410,Ty,Nash,2003,2003-05-22,AZ,USA,OA
