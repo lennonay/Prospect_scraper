@@ -4,6 +4,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
+29450,Emerson,Clark,2007,2007-01-26,SK,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
 29219,Joby,Baumuller,2007,2007-07-20,SK,,0
@@ -33,7 +34,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
 28098,Sean,Tschigerl,2003,2003-04-11,AB,,OA
-28429,Grayden,Siepmann,2004,2004-05-26,BC,,0
+29165,Fraser,Leonard,2006,2006-06-22,AB,Canada,0
 28103,Tyson,Galloway,2003,2003-01-20,BC,,OA
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 28796,Carter,MacAdams,2004,2004-03-07,BC,,0
@@ -76,7 +77,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28755,Max,Graham,2004,2004-05-21,BC,,0
 29322,Marek,Rocak,2005,2005-05-31,,CZE,0
 28823,Marcus,Pacheco,2005,2005-04-06,AB,,0
-28267,Turner,McMillen,2003,2003-01-30,SK,,OA
 29008,Tij,Iginla,2006,2006-08-04,BC,Canada,0
 29262,Will,Munro,2005,2005-04-26,MAN,,0
 29264,Logan,Peskett,2006,2006-09-14,BC,,0
@@ -99,7 +99,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28138,Joe,Arntsen,2003,2003-05-22,SK,,OA
 28740,Noah,Chadwick,2005,2005-05-10,SK,Canada,0
 29124,Tristen,Doyle,2006,2006-02-17,AB,,0
-29059,Anton,Astashevich,2004,2004-03-27,,Belarus,0
 29340,Luke,Cozens,2006,2006-06-30,YT,,0
 28852,Kooper,Gizowski,2005,2005-05-05,AB,,0
 29072,Miguel,Marques,2006,2006-03-08,BC,,0
@@ -357,7 +356,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28832,Dawson,Cowan,2005,2005-09-28,MB,Canada,0
 29036,Cameron,Parr,2006,2006-09-06,MB,,0
 28835,Zach,Turner,2004,2004-01-07,MB,,0
-29274,Jace,McFaul,2007,2007-03-03,AB,,0
 29319,Peyton,Kettles,2007,2007-09-01,MB,,0
 29108,Josh,Fluker,2006,2006-01-03,MB,,0
 28762,Ryan,McCleary,2003,2003-09-09,SK,,OA
@@ -371,20 +369,16 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29107,Maddix,McCagherty,2006,2006-06-07,BC,,0
 29252,Dawson,Gerwing,2006,2006-07-12,SK,,0
 28345,Caleb,Wyrostok,2003,2003-04-13,AB,,OA
-28342,Braeden,Lewis,2003,2003-05-21,MB,,OA
 28940,Connor,Hvidston,2004,2004-09-11,SK,,0
 28770,Josh,Filmon,2004,2004-03-18,MB,,0
 29103,Clarke,Caswell,2006,2006-02-02,MB,,0
-29164,Tomas,Zizka,2005,2005-05-28,,CZE,0
 28769,Owen,Pickering,2004,2004-01-27,MB,,0
 28095,Tyson,Laventure,2003,2003-01-28,AB,Canada,OA
 28941,Van,Eger,2005,2005-03-18,SK,,0
 28771,Reid,Dyck,2004,2004-01-20,MB,,0
-29306,Berney,Weston,2007,2007-03-14,SK,,0
 29495,Petr,Pavelec,2005,2005-02-10,,CZE,0
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
 28937,Grayson,Burzynski,2005,2005-06-04,MB,,0
-28880,Tomas,Suchanek,2003,2003-04-30,,Czechia,OA
 28523,Lukas,Dragicevic,2005,2005-04-25,BC,Canada,0
 28766,Ethan,Peters,2003,2003-04-22,SK,,OA
 29266,Jackson,Romeril,2005,2005-01-18,AB,,0
@@ -406,7 +400,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28425,Brandon,Whynott,2004,2004-04-16,BC,,0
 28732,Pasha,Bocharov,2004,2004-02-21,CA,USA,0
 29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
-29285,Adam,Mechura,2003,2003-01-31,,Czechia,OA
 28881,Nick,Avakyan,2004,2004-02-18,CA,United States,0
 28745,Alex,Serraglio,2003,2003-02-10,BC ,Canada,OA
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
@@ -473,7 +466,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28773,Beau,Courtney,2004,2004-01-12,CO,United States,0
 29026,Carter,Bear,2006,2006-11-04,MB,,0
 29070,Cade,Zaplitny,2004,2004-08-23,MB,Canada,0
-28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
 28757,Austin,Roest,2004,2004-01-22,BC,Canada,0
 29189,Dominik,Rymon,2004,2004-05-29,,CZE,0
 29398,Julius,Miettinen,2006,2006-01-20,,FIN,0
@@ -528,7 +520,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29543,Kian,Bell,2003,2003-09-12,NS,,OA
 29315,Landon,Hanson,2006,2006-01-09,AB,,0
 28076,Marc,Lajoie,2003,2003-05-21,AB,Canada,OA
-28845,Ben,Wright,2005,2005-10-23,BC,,0
 28497,Rhett,Melnyk,2004,2004-05-16,AB,Canada,0
 28926,Mason,Finley,2004,2004-12-13,BC,,0
 28399,Kolby,Hay,2004,2004-05-14,BC,,0
