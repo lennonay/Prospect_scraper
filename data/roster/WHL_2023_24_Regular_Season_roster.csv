@@ -58,6 +58,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29524,Bryce,Minten,2006,2006-02-02,BC,,0
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
 28467,Connor,Levis,2004,2004-10-05,BC,,0
+28468,Fraser,Minten,2004,2004-07-05,BC,,0
 28979,Harrison,Brunicke,2006,2006-05-08,AB,,0
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
@@ -418,7 +419,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29145,Miles,Cooper,2006,2006-08-04,AB,,0
 29541,Kurt,Rookes,2005,2005-09-03,MB,,0
 29422,Rodzers,Bukarts,2004,2004-10-05,,Latvia,0
-29147,Kyle,Marsden,2006,2006-07-13,NF,,0
 29167,Chase,Bambrick,2006,2006-11-08,BC,Canada,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
 28251,Conor,Geekie,2004,2004-05-05,MB,,0
