@@ -205,14 +205,13 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
 28829,Aiden,Oiring,2005,2005-05-09,AB,,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
-29150,Ryder,Ritchie,2006,2006-08-03,AB,Canada,0
+29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
 28298,Sloan,Stanick,2003,2003-08-01,,,OA
 28403,Niall,Crocker,2004,2004-07-31,BC,Canada,0
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28914,Harrison,Lodewyk,2005,2005-03-01,AB,,0
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,0
 29419,Matej,Kubiesa,2006,2006-09-11,CZE,,0
-29159,Cooper,Anderson,2007,2007-05-17,BC,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,,0
 28487,Chase,Coward,2003,2003-01-19,,,OA
 28917,Bauer,Dumanski,2005,2005-01-05,SK,,0
@@ -506,6 +505,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29374,Blake,Fiddler,2007,2007-07-09,TX,USA,0
 29201,Rhys,Pederson,2006,2006-09-08,AB,,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
+29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
 29203,Treycen,Wuttunee,2006,2006-03-22,SK,,0
 28157,Skyler,Bruce,2003,2003-01-23,MB,,OA
