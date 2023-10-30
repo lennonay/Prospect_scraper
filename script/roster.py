@@ -47,8 +47,8 @@ def roster(league_info):
 
 if __name__ == "__main__":
     league_info = pd.read_csv('data/league_info.csv')
-    for i in range(len(league_info)):
-            print(league_info.iloc[i]['name'])
-            roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
-            roster_df = roster(league_info.iloc[i])
-            roster_df.to_csv(roster_path_str,index=False)
+    i = 2
+    print(league_info.iloc[i]['name'])
+    roster_path_str = 'data/roster/' + league_info.iloc[i]['name'] + '_roster.csv'
+    roster_df = roster(league_info.iloc[i])
+    roster_df.to_csv(roster_path_str,index=False)
