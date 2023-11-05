@@ -50,6 +50,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 28047,Logan,Bairos,2003,2003-01-11,SK,,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,,CZE,0
+29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,CZE,0
 29344,Max,Sullivan,2006,2006-05-25,AB,,0
 28721,Emmitt,Finnie,2005,2005-06-27,AB,,0
@@ -93,6 +94,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28229,Jackson,DeSouza,2003,2003-03-21,CO,USA,OA
 28767,Andrew,Cristall,2005,2005-02-04,BC,,0
 29007,Hiroki,Gojsic,2006,2006-05-01,BC,,0
+29511,Nathan,Kam,2007,2007-07-21,BC,,0
 29082,Jari,Kykkanen,2004,2004-08-16,AB,,0
 29275,Jake,Pilon,2006,2006-10-12,AB,,0
 28421,Logan,McCutcheon,2004,2004-01-19,SK,,0
@@ -342,7 +344,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29276,Will,Jamieson,2006,2006-10-25,AB,,0
 28784,Ty,Cheveldayoff,2003,2003-05-14,AB,,OA
 29585,Rasmus,Ekström,2004,2004-10-04,,SWE,0
-29466,Lukáš,Král,2003,2003-02-03,,CZE,OA
+29466,Lukáš,Král,2006,2006-02-03,,CZE,0
 28470,Carter,Streek,2004,2004-01-13,BC,,0
 29101,Will,McIsaac,2006,2006-05-26,BC,,0
 28293,Layton,Feist,2004,2004-01-26,BC,,0
@@ -385,6 +387,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28937,Grayson,Burzynski,2005,2005-06-04,MB,,0
 28305,Kyle,Kelsey,2004,2004-01-22,BC,Canada,0
 28523,Lukas,Dragicevic,2005,2005-04-25,BC,Canada,0
+29492,Jaxen,Adam,2007,2007-08-17,AB,Canada,0
 28766,Ethan,Peters,2003,2003-04-22,SK,,OA
 29020,Merrek,Arpin,2006,2006-05-31,AB,Canada,0
 29287,Jackson,Smith,2007,2007-05-13,AB,Canada,0
@@ -402,6 +405,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28425,Brandon,Whynott,2004,2004-04-16,BC,,0
 28732,Pasha,Bocharov,2004,2004-02-21,CA,USA,0
 29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
+29491,Cruz,Pavao,2008,2008-08-24,AB,Canada,0
 28881,Nick,Avakyan,2004,2004-02-18,CA,United States,0
 28745,Alex,Serraglio,2003,2003-02-10,BC ,Canada,OA
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
@@ -433,6 +437,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
+29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 28963,Wyatt,Wilson,2003,2003-10-11,SK,,0
 29080,Colton,Roberts,2006,2006-06-08,BC,,0
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
