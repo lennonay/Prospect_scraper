@@ -49,7 +49,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 28047,Logan,Bairos,2003,2003-01-11,SK,,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,,CZE,0
-29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,CZE,0
 29344,Max,Sullivan,2006,2006-05-25,AB,,0
 28721,Emmitt,Finnie,2005,2005-06-27,AB,,0
@@ -466,6 +465,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28866,Dexter,Whittle,2004,2004-08-24,MB,Canada,0
 28867,Eric,Jamieson,2005,2005-07-15,AB,Canada,0
 28115,Ty,Gibson,2003,2003-06-21,BC,Canada,OA
+28356,Hayden,Smith,2004,2004-07-16,BC,,0
 28756,Ben,Hemmerling,2004,2004-04-21,AB,Canada,0
 28773,Beau,Courtney,2004,2004-01-12,CO,United States,0
 29026,Carter,Bear,2006,2006-11-04,MB,,0
@@ -478,7 +478,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29077,Jesse,Heslop,2006,2006-04-18,BC,Canada,0
 28933,Rylan,Pearce,2005,2005-10-09,SK,,0
 29078,Tarin,Smith,2006,2006-03-24,SK,Canada,0
-29338,Lukas,Kaplan,2007,2007-06-30,AB,,0
 29197,Andrew,Petruk,2005,2005-06-08,BC,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
 28395,Teague,Patton,2003,2003-12-15,BC,,0
