@@ -25,6 +25,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29453,Dominik,Petr,2005,2005-04-30,,Czechia ,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,0
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
+29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
@@ -288,7 +289,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28776,Sam,Oremba,2005,2005-01-19,SK,Canada,0
 29455,Ewan,Huet,2005,2005-02-08,SUI,,0
 28731,Ben,Saunderson,2004,2004-09-26,MB,,0
-29161,Jordan,Martin,2007,2007-01-08,BC,Canada,0
 28354,Brandon,Lisowsky,2004,2004-04-13,BC,,0
 28497,Rhett,Melnyk,2004,2004-05-16,AB,Canada,0
 29160,Hudson,Kibblewhite,2007,2007-04-07,BC,Canada,0
@@ -382,6 +382,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28771,Reid,Dyck,2004,2004-01-20,MB,,0
 29495,Petr,Pavelec,2005,2005-02-10,,CZE,0
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
+29251,Parker,Rondeau,2007,2007-06-15,SK,,0
+29501,Mason,Fauser,2008,2008-05-13,SK,,0
 28937,Grayson,Burzynski,2005,2005-06-04,MB,,0
 28305,Kyle,Kelsey,2004,2004-01-22,BC,Canada,0
 28523,Lukas,Dragicevic,2005,2005-04-25,BC,Canada,0
@@ -404,7 +406,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28425,Brandon,Whynott,2004,2004-04-16,BC,,0
 28732,Pasha,Bocharov,2004,2004-02-21,CA,USA,0
 29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
-29491,Cruz,Pavao,2008,2008-08-24,AB,Canada,0
 28881,Nick,Avakyan,2004,2004-02-18,CA,United States,0
 28745,Alex,Serraglio,2003,2003-02-10,BC ,Canada,OA
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
