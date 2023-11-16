@@ -22,6 +22,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29222,Matt,Henry,2004,2004-07-16,SK,,0
 28380,Brett,Hyland,2003,2003-02-18,AB,,OA
 29453,Dominik,Petr,2005,2005-04-30,,Czechia ,0
+28521,Matteo,Michels,2005,2005-06-29,TX,,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,0
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
 29469,Easton,LaPlante,2008,2008-06-03,AB,,0
@@ -112,6 +113,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28382,Tyson,Zimmer,2004,2004-09-05,MB,,0
 28364,Carter,Dereniwsky,2004,2004-02-27,SK,Canada,0
 29029,Cole,Cairns,2006,2006-06-01,MB,,0
+29208,Kash,Andresen,2007,2007-07-20,SK,,0
 28307,Blake,Swetlikoff,2003,2003-05-29,SK,,OA
 29388,Elias,Knoester,2005,2005-10-29,,Sweden,0
 29584,Leo,Braillard,2005,2005-07-05,,Switzerland,0
