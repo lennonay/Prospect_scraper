@@ -24,6 +24,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29453,Dominik,Petr,2005,2005-04-30,,Czechia ,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,0
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
+29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
@@ -375,6 +376,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28095,Tyson,Laventure,2003,2003-01-28,AB,Canada,OA
 28941,Van,Eger,2005,2005-03-18,SK,,0
 28771,Reid,Dyck,2004,2004-01-20,MB,,0
+28292,Matthew,Kieper,2004,2004-03-08,MB,,0
 29306,Berney,Weston,2007,2007-03-14,SK,,0
 29495,Petr,Pavelec,2005,2005-02-10,,CZE,0
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
