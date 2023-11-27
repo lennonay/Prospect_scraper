@@ -5,7 +5,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
-29450,Emerson,Clark,2007,2007-01-26,SK,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
 29219,Joby,Baumuller,2007,2007-07-20,SK,,0
@@ -15,13 +14,13 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28888,Evan,Groening,2005,2005-04-12,MB,,0
 28800,Luke,Shipley,2004,2004-08-08,BC,,0
 28486,Nate,Danielson,2004,2004-09-27,AB,,0
-29568,Dylan,McFadyen,2008,2008-10-04,,,0
 29224,Andrei,Maliavin,2004,2004-01-30,Russia,,0
 28738,Kayden,Sadhra-Kang,2003,2003-05-25,BC,Canada,OA
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
 29222,Matt,Henry,2004,2004-07-16,SK,,0
 28380,Brett,Hyland,2003,2003-02-18,AB,,OA
 29453,Dominik,Petr,2005,2005-04-30,,Czechia ,0
+28521,Matteo,Michels,2005,2005-06-29,TX,,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,0
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
