@@ -56,6 +56,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
 28467,Connor,Levis,2004,2004-10-05,BC,,0
 28468,Fraser,Minten,2004,2004-07-05,BC,,0
+29589,Kai,Matthew,2005,2005-06-10,AB,,0
 28979,Harrison,Brunicke,2006,2006-05-08,AB,,0
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
@@ -272,7 +273,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28860,Borya,Valis,2004,2004-04-08,CO,,0
 29217,Cole,Temple,2007,2007-03-20,MB,,0
 28883,Kelton,Pyne,2005,2005-09-03,SK,,0
-29218,Brayden,Smith,2007,2007-04-16,SK,,0
+29126,Madden,Mulawka,2006,2006-03-08,AB,,0
 28861,Brayden,Barnett,2004,2004-08-05,SK,,0
 28290,Parker,Berge,2003,2003-01-13,AB,,OA
 29087,Corbin,Vaughan,2006,2006-01-10,BC,CAN,0
@@ -430,7 +431,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
-29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 28963,Wyatt,Wilson,2003,2003-10-11,SK,,0
 29080,Colton,Roberts,2006,2006-06-08,BC,,0
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
