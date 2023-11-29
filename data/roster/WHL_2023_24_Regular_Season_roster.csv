@@ -109,7 +109,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,0
 28382,Tyson,Zimmer,2004,2004-09-05,MB,,0
 28364,Carter,Dereniwsky,2004,2004-02-27,SK,Canada,0
-29029,Cole,Cairns,2006,2006-06-01,MB,,0
 29208,Kash,Andresen,2007,2007-07-20,SK,,0
 28307,Blake,Swetlikoff,2003,2003-05-29,SK,,OA
 29388,Elias,Knoester,2005,2005-10-29,,Sweden,0
@@ -228,6 +227,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28809,Carlin,Dezainde,2004,2004-12-29,AB,,0
 29472,Nicholas,McLennan,2006,2006-04-24,AK,USA,0
 29267,Ondrej,Becher,2004,2004-02-22,,CZE,0
+29269,Lee,Shurgot,2007,2007-03-23,SK,,0
 28488,Keaton,Dowhaniuk,2004,2004-02-08,AB,,0
 29041,Tyson,Buczkowski,2006,2006-01-27,SK,,0
 29271,Jett,Lajoie,2007,2007-02-05,MB,,0
@@ -522,7 +522,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28887,Eastyn,Mannix,2005,2005-02-28,AB,,0
 28926,Mason,Finley,2004,2004-12-13,BC,,0
 28399,Kolby,Hay,2004,2004-05-14,BC,,0
-29542,Hudson,Perry,2007,2007-05-30,AB,,0
 28410,Ty,Nash,2003,2003-05-22,AZ,USA,OA
 28958,Logan,Cunningham,2005,2005-02-11,AB,,0
 29206,Reid,Larson,2005,2005-04-24,AB,,0
