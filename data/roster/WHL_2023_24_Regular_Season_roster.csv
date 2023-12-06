@@ -319,6 +319,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29513,Brayden,Holberton,2007,2007-06-14,BC,Canada,0
 28469,Nico,Myatovic,2004,2004-12-01,BC,Canada,0
 29137,Kaleb,Hartmann,2007,2007-07-06,BC,Canada,0
+29590,Grayson,Malinoski,2007,2007-04-11,SK,Canada,0
 28813,Scott,Ratzlaff,2005,2005-03-09,AB,Canada,0
 28705,Sawyer,Mynio,2005,2005-04-30,BC,Canada,0
 28789,Owen,Boucher,2004,2004-02-15,AB,,0
@@ -490,6 +491,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28168,Matthew,Hodson,2003,2003-07-08,SK,Canada,OA
 28369,Ryan,Spizawka,2004,2004-01-16,BC,Canada,0
 28889,Hayden,Chaloner,2005,2005-03-21,MB,Canada,0
+29508,Keaton,Verhoeff,2008,2008-06-19,AB,Canada,0
 28893,Ben,Riche,2005,2005-03-15,SK,Canada,0
 29503,Casper Evensen,Haugen,2005,2005-08-21,,Norway,0
 29323,Robin,Sapousek,2004,2004-03-11,,Czech Republic,0
@@ -508,7 +510,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29374,Blake,Fiddler,2007,2007-07-09,TX,USA,0
 29201,Rhys,Pederson,2006,2006-09-08,AB,,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
-29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 28898,Matthew,Gallant,2004,2004-01-16,BC,Canada,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
 29203,Treycen,Wuttunee,2006,2006-03-22,SK,,0
@@ -518,15 +519,13 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28741,Cole,Miller,2005,2005-02-04,AB,Canada,0
 29075,Gavin,Hodnett,2006,2006-04-09,MB,,0
 29122,Smyth,Rebman,2006,2006-01-20,BC,,0
-29205,Presley,Kerner,2007,2007-11-03,BC,,0
 29315,Landon,Hanson,2006,2006-01-09,AB,,0
 28076,Marc,Lajoie,2003,2003-05-21,AB,Canada,OA
 28887,Eastyn,Mannix,2005,2005-02-28,AB,,0
 28926,Mason,Finley,2004,2004-12-13,BC,,0
 28399,Kolby,Hay,2004,2004-05-14,BC,,0
-29542,Hudson,Perry,2007,2007-05-30,AB,,0
+28749,Beckett,Langkow,2003,2003-08-19,AB,,OA
 28410,Ty,Nash,2003,2003-05-22,AZ,USA,OA
-28958,Logan,Cunningham,2005,2005-02-11,AB,,0
 29206,Reid,Larson,2005,2005-04-24,AB,,0
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,,0
 29375,Adam,Jecho,2006,2006-03-24,,CZE,0
