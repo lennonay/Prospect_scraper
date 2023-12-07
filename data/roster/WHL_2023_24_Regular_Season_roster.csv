@@ -55,11 +55,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29524,Bryce,Minten,2006,2006-02-02,BC,,0
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
 28467,Connor,Levis,2004,2004-10-05,BC,,0
-28468,Fraser,Minten,2004,2004-07-05,BC,,0
 29589,Kai,Matthew,2005,2005-06-10,AB,,0
 28979,Harrison,Brunicke,2006,2006-05-08,AB,,0
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
+28903,Jordan,Keller,2005,2005-03-08,BC,Canada,0
 28804,Dylan,Sydor,2003,2003-04-07,BC,,OA
 28947,Ryan,Nolan,2004,2004-01-06,AB,,0
 29056,Ashton,Tait,2006,2006-07-30,SK,,0
@@ -83,6 +83,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28990,Kayden,Longley,2006,2006-01-29,AB,,0
 29263,Ethan,Neutens,2005,2005-05-03,AB,,0
 28853,Michael,Cicek,2004,2004-01-26,MB,,0
+29438,Owen,Folstrom,2008,2008-03-21,AB,,0
 28309,Ben,Thornton,2004,2004-02-02,BC,,0
 28822,Gabriel,Szturc,2003,2003-09-24,,CZE,0
 28871,Ethan,Mittelsteadt,2005,2005-12-18,BC,Canada,0
@@ -221,6 +222,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28794,Hudson,Thornton,2003,2003-11-04,MB,,0
 28489,Koehn,Ziemmer,2004,2004-12-08,AB,,0
 28927,Matteo,Danis,2005,2005-03-27,AB,,0
+29468,Carson,Carels,2008,2008-06-23,MB,,0
 29470,Aiden,Foster,2007,2007-02-05,AB,,0
 28218,Zac,Funk,2003,2003-07-20,BC,,OA
 28809,Carlin,Dezainde,2004,2004-12-29,AB,,0
@@ -452,7 +454,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28432,Julian,Cull,2004,2004-02-06,BC,,0
 29242,Samuel,Honzek,2004,2004-11-12,SVK,,0
 28297,Brett,Mirwald,2003,2003-09-13,SK,Canada,OA
-29240,Ethan,McEneany,2006,2006-06-18,WA,USA,0
 29089,Marek,Howell,2006,2006-05-19,AB,Canada,0
 28803,Mazden,Leslie,2005,2005-04-15,AB,,0
 29004,Cameron,Sytsma,2006,2006-01-09,BC,,0
