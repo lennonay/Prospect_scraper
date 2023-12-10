@@ -117,6 +117,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29388,Elias,Knoester,2005,2005-10-29,,Sweden,0
 29584,Leo,Braillard,2005,2005-07-05,,Switzerland,0
 29342,Landen,Ward,2006,2006-04-19,AB,,0
+29583,Brody,Rotar,2008,2008-09-20,BC,,0
 29123,Brady,Smith,2005,2005-05-31,BC,,0
 28935,Harrison,Meneghin,2004,2004-09-13,BC,,0
 29174,Nate,Corbet,2006,2006-03-15,AB,,0
@@ -395,7 +396,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28326,Jake,Sloan,2004,2004-02-13,AB,Canada,0
 28892,Thomas,Tien,2004,2004-06-25,BC,Canada,0
 28702,Jake,Gudelj,2005,2005-12-05,BC,,0
-29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
 28053,Parker,Bell,2003,2003-09-26,BC,Canada,0
 28534,Deagan,McMillan,2005,2005-01-21,BC,Canada,0
@@ -417,7 +417,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29143,Oscar,Lovsin,2006,2006-09-18,AB,Canada,0
 28806,Dawson,Seitz,2005,2005-03-01,AB,,0
 28484,Briley,Wood,2003,2003-01-15,MB,,OA
-29549,Caelan,Joudrey,2008,2008-01-17,AB,Canada,0
 28828,Ty,Fraser,2005,2005-04-28,AB,Canada,0
 29035,Hayden,Moore,2006,2006-05-19,MB,Canada,0
 29145,Miles,Cooper,2006,2006-08-04,AB,,0
@@ -474,6 +473,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29194,Julien,Maze,2007,2007-12-07,AB,,0
 29190,Matthew,Paszkiewicz,2005,2005-08-13,AB,,0
 29077,Jesse,Heslop,2006,2006-04-18,BC,Canada,0
+29397,Lukas,Lima,2008,2008-01-31,BC,,0
 28933,Rylan,Pearce,2005,2005-10-09,SK,,0
 29078,Tarin,Smith,2006,2006-03-24,SK,Canada,0
 29338,Lukas,Kaplan,2007,2007-06-30,AB,,0
