@@ -5,7 +5,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29152,Seth,Tansem,2006,2006-03-01,BC,Canada,0
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
-29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
@@ -13,7 +12,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28381,Rylen,Roersma,2004,2004-07-25,AB,,0
 29223,Carter,Klippenstein,2006,2006-11-25,AB,,0
 29120,Hayden,Wheddon,2005,2005-05-10,MB,,0
-28888,Evan,Groening,2005,2005-04-12,MB,,0
 28800,Luke,Shipley,2004,2004-08-08,BC,,0
 28486,Nate,Danielson,2004,2004-09-27,AB,,0
 29224,Andrei,Maliavin,2004,2004-01-30,Russia,,0
@@ -45,6 +43,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
 29502,Brandon,Gorzynski,2007,2007-03-12,AZ,,0
+29474,Connor,Bear,2023,2023-06-11,SK,,0
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 28047,Logan,Bairos,2003,2003-01-11,SK,,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,,CZE,0
@@ -482,6 +481,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28395,Teague,Patton,2003,2003-12-15,BC,,0
 28956,Tyler,Palmer,2003,2003-06-27,BC,,OA
 28352,Ethan,Chadwick,2004,2004-01-27,SK,,0
+29399,Clarke,Schaefer,2007,2007-04-17,AB,,0
 28687,Kaden,Hammell,2005,2005-03-12,BC,,0
 28922,Caden,Brown,2005,2005-03-22,BC,,0
 28862,Kyan,Grouette,2005,2005-01-07,MB,Canada,0
