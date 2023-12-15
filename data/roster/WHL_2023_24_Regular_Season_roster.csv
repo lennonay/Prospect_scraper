@@ -5,6 +5,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29152,Seth,Tansem,2006,2006-03-01,BC,Canada,0
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
+29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
@@ -27,6 +28,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
+29063,Gavin,Schmidt,2004,2004-02-26,AB,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,0
 29129,Carson,Wetsch,2006,2006-05-04,BC,,0
@@ -167,6 +169,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 28847,Josh,Mori,2004,2004-03-27,BC,,0
+29324,Braeden,Jockims,2005,2005-05-22,SK,,0
 28317,James,Stefan,2003,2003-08-09,CA,,OA
 28848,Rhett,Ravndahl,2005,2005-02-26,SK,,0
 28117,Gabe,Klassen,2003,2003-06-30,SK,,OA
@@ -480,7 +483,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29338,Lukas,Kaplan,2007,2007-06-30,AB,,0
 29197,Andrew,Petruk,2005,2005-06-08,BC,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
-29397,Lukas,Lima,2008,2008-01-31,BC,,0
 28395,Teague,Patton,2003,2003-12-15,BC,,0
 28956,Tyler,Palmer,2003,2003-06-27,BC,,OA
 28352,Ethan,Chadwick,2004,2004-01-27,SK,,0
