@@ -382,7 +382,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28095,Tyson,Laventure,2003,2003-01-28,AB,Canada,OA
 28941,Van,Eger,2005,2005-03-18,SK,,0
 28771,Reid,Dyck,2004,2004-01-20,MB,,0
-29499,Sawyer,Dingman,2008,2008-09-11,AB,,0
 28292,Matthew,Kieper,2004,2004-03-08,MB,,0
 29495,Petr,Pavelec,2005,2005-02-10,,CZE,0
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
@@ -453,6 +452,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29239,Jakob,Oreskovic,2007,2007-01-10,BC,,0
 29442,Adam,Titlbach,2006,2006-02-15,,Czechia,0
 28549,Tyler,Thorpe,2005,2005-08-11,BC,,0
+29533,Brett,Olson,2008,2008-02-24,AB,Canada,0
 29241,London,Hoilett,2005,2005-02-15,MB,,0
 28378,Logen,Hammett,2003,2003-04-03,SK,,OA
 29081,Justin,Ivanusec,2006,2006-01-24,BC,,0
