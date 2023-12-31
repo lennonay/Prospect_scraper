@@ -146,7 +146,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28296,Denton,Mateychuk,2004,2004-07-12,MB,Canada,0
 28370,Kalem,Parker,2004,2004-10-12,SK,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
-28899,Harper,Lolacher,2005,2005-01-30,SK,Canada,0
 29127,Cosmo,Wilson,2005,2005-01-09,BC,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
@@ -267,6 +266,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29248,Kolten,Bridgeman,2006,2006-10-28,SK,,0
 28328,Carson,Haynes,2003,2003-01-30,AB,Canada,OA
 29264,Logan,Peskett,2006,2006-09-14,BC,,0
+28899,Harper,Lolacher,2005,2005-01-30,SK,Canada,0
 28955,Anthony,Wilson,2005,2005-04-27,SK,,0
 28281,Tye,Spencer,2004,2004-06-27,SK,,0
 29216,Corban,Almen,2007,2007-08-27,SK,,0
@@ -277,6 +277,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29217,Cole,Temple,2007,2007-03-20,MB,,0
 28883,Kelton,Pyne,2005,2005-09-03,SK,,0
 29126,Madden,Mulawka,2006,2006-03-08,AB,,0
+29218,Brayden,Smith,2007,2007-04-16,SK,,0
 28861,Brayden,Barnett,2004,2004-08-05,SK,,0
 28290,Parker,Berge,2003,2003-01-13,AB,,OA
 29087,Corbin,Vaughan,2006,2006-01-10,BC,CAN,0
@@ -443,6 +444,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
 29441,Aaron,Obobaifo,2007,2007-02-13,AB,Canada,0
 29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
+29243,Tomis,Marinkovic,2004,2004-02-15,BC,,0
 28908,Damian,Palmieri,2004,2004-01-28,BC,,0
 28909,Jaden,Lipinski,2004,2004-12-02,AZ,USA,0
 29302,Will,Subject,2005,2005-05-10,MN,USA,0
@@ -483,6 +485,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29338,Lukas,Kaplan,2007,2007-06-30,AB,,0
 29197,Andrew,Petruk,2005,2005-06-08,BC,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
+29397,Lukas,Lima,2008,2008-01-31,BC,,0
 28395,Teague,Patton,2003,2003-12-15,BC,,0
 28956,Tyler,Palmer,2003,2003-06-27,BC,,OA
 28352,Ethan,Chadwick,2004,2004-01-27,SK,,0
