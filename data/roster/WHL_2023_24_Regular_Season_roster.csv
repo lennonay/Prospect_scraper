@@ -28,6 +28,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
+29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,0
 29129,Carson,Wetsch,2006,2006-05-04,BC,,0
@@ -139,6 +140,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28752,Evan,May,2004,2004-07-02,BC,Canada,0
 29115,Ethan,McCallum,2006,2006-04-11,MB,,0
 28949,Andrew,Basha,2005,2005-11-08,AB,,0
+28823,Marcus,Pacheco,2005,2005-04-06,AB,,0
 29192,Gavin,McKenna,2007,2007-12-20,YT,,0
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
 28085,Lucas,Brenton,2003,2003-04-23,MB,Canada,OA
@@ -226,6 +228,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29468,Carson,Carels,2008,2008-06-23,MB,,0
 29470,Aiden,Foster,2007,2007-02-05,AB,,0
 28218,Zac,Funk,2003,2003-07-20,BC,,OA
+28860,Borya,Valis,2004,2004-04-08,CO,,0
 28809,Carlin,Dezainde,2004,2004-12-29,AB,,0
 29472,Nicholas,McLennan,2006,2006-04-24,AK,USA,0
 29267,Ondrej,Becher,2004,2004-02-22,,CZE,0
@@ -442,7 +445,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29080,Colton,Roberts,2006,2006-06-08,BC,,0
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
 29441,Aaron,Obobaifo,2007,2007-02-13,AB,Canada,0
-29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 29243,Tomis,Marinkovic,2004,2004-02-15,BC,,0
 28908,Damian,Palmieri,2004,2004-01-28,BC,,0
 28909,Jaden,Lipinski,2004,2004-12-02,AZ,USA,0
