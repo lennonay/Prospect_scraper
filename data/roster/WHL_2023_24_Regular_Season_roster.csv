@@ -271,7 +271,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29039,Chase,Wutzke,2006,2006-07-26,SK,,0
 29247,Rhett,Stoesser,2005,2005-01-31,,,0
 29456,Aaron,Krestanowich,2006,2006-06-02,MB,,0
-28793,Jaren,Brinson,2004,2004-05-08,AB,,0
 29248,Kolten,Bridgeman,2006,2006-10-28,SK,,0
 28328,Carson,Haynes,2003,2003-01-30,AB,Canada,OA
 28115,Ty,Gibson,2003,2003-06-21,BC,Canada,OA
@@ -289,7 +288,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29041,Tyson,Buczkowski,2006,2006-01-27,SK,,0
 28883,Kelton,Pyne,2005,2005-09-03,SK,,0
 29126,Madden,Mulawka,2006,2006-03-08,AB,,0
-29218,Brayden,Smith,2007,2007-04-16,SK,,0
 28861,Brayden,Barnett,2004,2004-08-05,SK,,0
 29087,Corbin,Vaughan,2006,2006-01-10,BC,CAN,0
 28923,Zackary,Shantz,2005,2005-09-09,AB,,0
@@ -508,6 +506,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28922,Caden,Brown,2005,2005-03-22,BC,,0
 29400,Caine,Wilke,2008,2008-03-01,SK,,0
 29292,Hudson,Bjornson,2006,2006-02-24,AZ,United States,0
+28793,Jaren,Brinson,2004,2004-05-08,AB,,0
 28960,Justin,Kipkie,2005,2005-07-28,AB,Canada,0
 29293,Seth,Fryer,2006,2006-06-23,BC,Canada,0
 28817,Austin,Zemlak,2005,2005-02-26,AB,Canada,0
