@@ -25,16 +25,17 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
 29592,Brandon,Osborne,2006,2006-04-13,BC,,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
+29485,Hunter,Aura,2007,2007-10-22,BC,,0
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
+29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,0
 29129,Carson,Wetsch,2006,2006-05-04,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
 28098,Sean,Tschigerl,2003,2003-04-11,AB,,OA
-29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 28103,Tyson,Galloway,2003,2003-01-20,BC,,OA
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
@@ -148,7 +149,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
 28085,Lucas,Brenton,2003,2003-04-23,MB,Canada,OA
 28296,Denton,Mateychuk,2004,2004-07-12,MB,Canada,0
-29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 28370,Kalem,Parker,2004,2004-10-12,SK,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
 29127,Cosmo,Wilson,2005,2005-01-09,BC,Canada,0
@@ -205,7 +205,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29148,Justice,Christensen,2005,2005-08-30,AB,Canada,0
 28739,Easton,Kovacs,2004,2004-11-29,BC,Canada,0
 28536,Terrell,Goldsmith,2005,2005-05-13,BC,,0
-28267,Turner,McMillen,2003,2003-01-30,SK,,OA
 28825,Hayden,Pakkala,2004,2004-01-28,AB,Canada,0
 28379,Jacob,Hoffrogge,2003,2003-02-18,SK,,OA
 28870,Brayden,Dube,2005,2005-09-22,MB,Canada,0
@@ -216,6 +215,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
 28298,Sloan,Stanick,2003,2003-08-01,,,OA
 28403,Niall,Crocker,2004,2004-07-31,BC,Canada,0
+28267,Turner,McMillen,2003,2003-01-30,SK,,OA
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28914,Harrison,Lodewyk,2005,2005-03-01,AB,,0
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,0
