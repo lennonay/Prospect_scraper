@@ -155,6 +155,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29318,Aiden,Ziprick,2005,2005-12-08,MB,,0
 29228,Ethan,Hughes,2006,2006-10-08,AB,Canada,0
 28302,Atley,Calvert,2003,2003-09-17,SK,Canada,OA
+28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 28299,Jagger,Firkus,2004,2004-04-29,AB,Canada,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 28812,Jackson,Unger,2005,2005-01-13,AB,Canada,0
@@ -163,7 +164,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,,0
 29234,Vojtech,Port,2005,2005-08-03,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
-28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 28847,Josh,Mori,2004,2004-03-27,BC,,0
 29529,Cohen,Massey,2006,2006-07-06,BC,,0
 28317,James,Stefan,2003,2003-08-09,CA,,OA
@@ -186,6 +186,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28339,Josh,Davies,2004,2004-03-24,AB,,0
 28763,Marcus,Nguyen,2004,2004-08-02,AB,,0
 28760,Luca,Cagnoni,2004,2004-12-21,BC,,0
+28486,Nate,Danielson,2004,2004-09-27,AB,,0
 29006,Diego,Buttazzoni,2006,2006-01-13,BC,,0
 29258,Alex,Thompson,2006,2006-01-16,MB,,0
 28323,Jack,O'Brien,2003,2003-05-14,CO,,OA
@@ -204,6 +205,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
 28298,Sloan,Stanick,2003,2003-08-01,,,OA
 28403,Niall,Crocker,2004,2004-07-31,BC,Canada,0
+28913,Dustin,Renas,2005,2005-07-18,SK,,0
 28267,Turner,McMillen,2003,2003-01-30,SK,,OA
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28914,Harrison,Lodewyk,2005,2005-03-01,AB,,0
@@ -315,7 +317,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28335,Jordan,Gustafson,2004,2004-01-20,AB,Canada,0
 29125,Bryce,Pickford,2006,2006-04-02,AB,Canada,0
 28872,Coster,Dunn,2005,2005-09-13,AB,Canada,0
-29143,Oscar,Lovsin,2006,2006-09-18,AB,Canada,0
 28336,Sam,Popowich,2003,2003-05-21,AB,Canada,OA
 28094,Eric,Alarie,2003,2003-01-27,MB,Canada,OA
 29136,Simon,Lovsin,2006,2006-01-22,AB,Canada,0
@@ -324,6 +325,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29137,Kaleb,Hartmann,2007,2007-07-06,BC,Canada,0
 28896,Nathan,Pilling,2004,2004-06-22,AB,Canada,0
 28813,Scott,Ratzlaff,2005,2005-03-09,AB,Canada,0
+29143,Oscar,Lovsin,2006,2006-09-18,AB,Canada,0
 28705,Sawyer,Mynio,2005,2005-04-30,BC,Canada,0
 28789,Owen,Boucher,2004,2004-02-15,AB,,0
 29139,Kazden,Mathies,2007,2007-04-07,SK,Canada,0
