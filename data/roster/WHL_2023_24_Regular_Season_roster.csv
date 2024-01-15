@@ -157,7 +157,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29318,Aiden,Ziprick,2005,2005-12-08,MB,,0
 29228,Ethan,Hughes,2006,2006-10-08,AB,Canada,0
 28302,Atley,Calvert,2003,2003-09-17,SK,Canada,OA
-28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 28299,Jagger,Firkus,2004,2004-04-29,AB,Canada,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 28812,Jackson,Unger,2005,2005-01-13,AB,Canada,0
@@ -166,6 +165,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,,0
 29234,Vojtech,Port,2005,2005-08-03,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
+28250,Matthew,Savoie,2004,2004-01-01,AB,,0
 28847,Josh,Mori,2004,2004-03-27,BC,,0
 29529,Cohen,Massey,2006,2006-07-06,BC,,0
 28317,James,Stefan,2003,2003-08-09,CA,,OA
