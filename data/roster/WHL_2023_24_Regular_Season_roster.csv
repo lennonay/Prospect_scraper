@@ -5,7 +5,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29152,Seth,Tansem,2006,2006-03-01,BC,Canada,0
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
-29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 28357,Jayden,Wiens,2003,2003-07-18,SK,,OA
@@ -17,7 +16,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28800,Luke,Shipley,2004,2004-08-08,BC,,0
 29568,Dylan,McFadyen,2008,2008-10-04,,,0
 29224,Andrei,Maliavin,2004,2004-01-30,Russia,,0
-29601,Brady,Turko,2007,2007-09-12,MB,,0
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
 29222,Matt,Henry,2004,2004-07-16,SK,,0
 28380,Brett,Hyland,2003,2003-02-18,AB,,OA
@@ -72,6 +70,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28176,Ashton,Ferster,2003,2003-05-17,SK,,OA
 28279,Dylan,Ernst,2004,2004-02-06,SK,,0
 29331,Landon,Cowper,2006,2006-07-05,YT,,0
+29538,Lachlan,Staniforth,2007,2007-05-04,BC,,0
 28824,Caden,Price,2005,2005-08-24,SK,,0
 28932,Carter,Kowalyk,2005,2005-07-08,AB,,0
 29439,Jackson,Gillespie,2007,2007-02-26,Texas,USA,0
@@ -204,7 +203,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
 28298,Sloan,Stanick,2003,2003-08-01,,,OA
 28403,Niall,Crocker,2004,2004-07-31,BC,Canada,0
-28913,Dustin,Renas,2005,2005-07-18,SK,,0
 28267,Turner,McMillen,2003,2003-01-30,SK,,OA
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28914,Harrison,Lodewyk,2005,2005-03-01,AB,,0
@@ -256,7 +254,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28857,Talon,Brigley,2005,2005-02-16,AB,Canada,0
 28280,Mats,Lindgren,2004,2004-08-26,BC,,0
 29246,Quentin,Bourne,2006,2006-03-04,,USA,0
-29525,Taylor,Tabashniuk,2007,2007-03-17,SK,Canada,0
 29039,Chase,Wutzke,2006,2006-07-26,SK,,0
 29247,Rhett,Stoesser,2005,2005-01-31,,,0
 29456,Aaron,Krestanowich,2006,2006-06-02,MB,,0
@@ -285,7 +282,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28776,Sam,Oremba,2005,2005-01-19,SK,Canada,0
 29455,Ewan,Huet,2005,2005-02-08,SUI,,0
 28731,Ben,Saunderson,2004,2004-09-26,MB,,0
-29162,Brayden,Klimpke,2007,2007-10-08,AB,Canada,0
 28873,Carter,Herman,2005,2005-04-01,SK,,0
 28354,Brandon,Lisowsky,2004,2004-04-13,BC,,0
 28497,Rhett,Melnyk,2004,2004-05-16,AB,Canada,0
