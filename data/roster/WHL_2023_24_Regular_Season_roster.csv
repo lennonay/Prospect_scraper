@@ -22,21 +22,20 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29453,Dominik,Petr,2005,2005-04-30,,Czechia ,0
 28521,Matteo,Michels,2005,2005-06-29,TX,,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,0
-29602,Eric,Tu,2008,2008-10-26,,,0
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
+28732,Pavel,Bocharov,2004,2004-02-21,CA,USA,0
 29592,Brandon,Osborne,2006,2006-04-13,BC,,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
-28732,Pavel,Bocharov,2004,2004-02-21,CA,USA,0
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
 29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
+29081,Justin,Ivanusec,2006,2006-01-24,BC,,0
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,0
 29129,Carson,Wetsch,2006,2006-05-04,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
-29081,Justin,Ivanusec,2006,2006-01-24,BC,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 29165,Fraser,Leonard,2006,2006-06-22,AB,Canada,0
@@ -46,6 +45,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
 29502,Brandon,Gorzynski,2007,2007-03-12,AZ,,0
+29474,Connor,Bear,2007,2007-06-11,SK,,0
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 28047,Logan,Bairos,2003,2003-01-11,SK,,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,,CZE,0
@@ -477,6 +477,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29291,Cole,Reschny,2007,2007-04-06,SK,Canada,0
 28095,Tyson,Laventure,2003,2003-01-28,AB,Canada,OA
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,0
+29296,Caleb,Matthews,2007,2007-06-04,AB,Canada,0
 28369,Ryan,Spizawka,2004,2004-01-16,BC,Canada,0
 28889,Hayden,Chaloner,2005,2005-03-21,MB,Canada,0
 28893,Ben,Riche,2005,2005-03-15,SK,Canada,0
@@ -497,7 +498,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29374,Blake,Fiddler,2007,2007-07-09,TX,USA,0
 29201,Rhys,Pederson,2006,2006-09-08,AB,,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
-29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 28898,Matthew,Gallant,2004,2004-01-16,BC,Canada,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
 28157,Skyler,Bruce,2003,2003-01-23,MB,,OA
