@@ -26,6 +26,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28732,Pavel,Bocharov,2004,2004-02-21,CA,USA,0
 29592,Brandon,Osborne,2006,2006-04-13,BC,,0
 28329,Tyson,Greenway,2003,2003-01-15,AB,Canada,OA
+29474,Connor,Bear,2007,2007-06-11,SK,,0
 29484,Aleksey,Chichkin,2005,2005-07-21,BC,,0
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
 29483,Keets,Fawcett,2006,2006-02-23,AB,,0
@@ -45,7 +46,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
 29502,Brandon,Gorzynski,2007,2007-03-12,AZ,,0
-29474,Connor,Bear,2007,2007-06-11,SK,,0
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 28047,Logan,Bairos,2003,2003-01-11,SK,,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,,CZE,0
