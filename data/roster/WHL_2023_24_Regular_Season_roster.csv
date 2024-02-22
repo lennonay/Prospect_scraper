@@ -57,6 +57,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28711,Ryan,Michael,2005,2005-02-05,BC,,0
 29524,Bryce,Minten,2006,2006-02-02,BC,,0
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
+29407,Tommy,Lafreniere,2007,2007-01-16,BC,,0
 29589,Kai,Matthew,2005,2005-06-10,AB,,0
 28979,Harrison,Brunicke,2006,2006-05-08,AB,,0
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
@@ -276,6 +277,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29087,Corbin,Vaughan,2006,2006-01-10,BC,CAN,0
 28923,Zackary,Shantz,2005,2005-09-09,AB,,0
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
+29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
 29086,Jaxsin,Vaughan,2006,2006-01-10,BC,CAN,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,USA,0
 28776,Sam,Oremba,2005,2005-01-19,SK,Canada,0
@@ -402,7 +404,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29146,Ashton,Brown,2007,2007-02-01,AB,,0
 29108,Josh,Fluker,2006,2006-01-03,MB,,0
 29588,Brayden,Pankey,2006,2006-02-26,WA,USA,0
-29128,Sam,Ward,2005,2005-08-03,BC,,0
 29025,Jonas,Woo,2006,2006-11-19,MB,Canada,0
 28827,Evan,Friesen,2004,2004-08-24,MB,Canada,0
 28737,Gabe,Ludwig,2004,2004-02-29,AK,,0
@@ -413,6 +414,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29035,Hayden,Moore,2006,2006-05-19,MB,Canada,0
 29145,Miles,Cooper,2006,2006-08-04,AB,,0
 29541,Kurt,Rookes,2005,2005-09-03,MB,,0
+29128,Sam,Ward,2005,2005-08-03,BC,,0
 29422,Rodzers,Bukarts,2004,2004-10-05,,Latvia,0
 29167,Chase,Bambrick,2006,2006-11-08,BC,Canada,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
