@@ -297,6 +297,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28718,Tanner,Molendyk,2005,2005-02-03,BC,,0
 28494,Easton,Armstrong,2003,2003-01-24,CA,USA,OA
 28733,Lukas,Hansen,2005,2005-02-22,MB,,0
+29423,Ryley,Budd,2008,2008-05-09,AB,,0
 28734,Austin,Elliott,2004,2004-05-14,AB,,0
 28998,Evan,Gardner,2006,2006-01-25,BC,,0
 28222,Trevor,Wong,2003,2003-05-04,BC,,OA
@@ -386,7 +387,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28326,Jake,Sloan,2004,2004-02-13,AB,Canada,0
 28892,Thomas,Tien,2004,2004-06-25,BC,Canada,0
 28702,Jake,Gudelj,2005,2005-12-05,BC,,0
-29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
 28053,Parker,Bell,2003,2003-09-26,BC,Canada,0
 28534,Deagan,McMillan,2005,2005-01-21,BC,Canada,0
@@ -428,7 +428,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29431,Kenta,Isogai,2004,2004-08-28,,Japan,0
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
-29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 28963,Wyatt,Wilson,2003,2003-10-11,SK,,0
 29080,Colton,Roberts,2006,2006-06-08,BC,,0
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
