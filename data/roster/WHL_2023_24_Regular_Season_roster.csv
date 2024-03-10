@@ -235,6 +235,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29272,Terik,Parascak,2006,2006-05-28,AB,,0
 28792,Ty,Young,2004,2004-09-11,AB,,0
 29523,Derek,Thurston,2006,2006-05-04,BC,Canada,0
+29520,Tate,Dolinsky,2007,2007-05-02,MB,Canada,0
 28258,Elias,Carmichael,2003,2003-03-18,BC,,OA
 28390,Hunter,Mayo,2004,2004-05-07,SK,,0
 28717,Matteo,Fabrizi,2005,2005-03-23,AB,Canada,0
@@ -390,7 +391,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29016,Jordan,Gavin,2006,2006-11-13,BC,Canada,0
 28326,Jake,Sloan,2004,2004-02-13,AB,Canada,0
 28892,Thomas,Tien,2004,2004-06-25,BC,Canada,0
-29607,Ryker,Rougeau,2007,2007-10-03,BC,,0
 28702,Jake,Gudelj,2005,2005-12-05,BC,,0
 29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
@@ -400,7 +400,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28425,Brandon,Whynott,2004,2004-04-16,BC,,0
 28796,Carter,MacAdams,2004,2004-03-07,BC,,0
 29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
-29491,Cruz,Pavao,2008,2008-08-24,AB,Canada,0
+29593,Armaan,Kaila,2007,2007-03-27,BC,,0
 28745,Alex,Serraglio,2003,2003-02-10,BC ,Canada,OA
 29493,Kainoah,Brankovic,2007,2007-03-12,BC,Canada,0
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
