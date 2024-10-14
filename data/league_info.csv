@@ -1,4 +1,7 @@
 ﻿name,league,key,season,roster_start,roster_end
+WHL_2024_25_Regular_Season,whl,41b145a848f4bd67, 285, 201, 228
+WHL_2024_25_Preseason,whl,41b145a848f4bd67, 286, 201, 228
+WHL_2023_24_Playoffs,whl,41b145a848f4bd67,284,201,228
 WHL_2023_24_Regular_Season,whl,41b145a848f4bd67, 281, 201, 228
 WHL_2023_24_Preseason,whl,41b145a848f4bd67, 282, 201, 228
 WHL_2022_23_Regular_Season,whl,41b145a848f4bd67,279,201,228
