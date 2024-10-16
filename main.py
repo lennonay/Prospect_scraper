@@ -8,7 +8,7 @@ from script.schedule import schedule
 from functools import partial
 from multiprocessing import Pool
 
-def main(roster_update = 0):
+def main(roster_update = 1):
 
     today = datetime.today().strftime('%Y-%m-%d')
     file1 = open("data/update.txt", "w")
