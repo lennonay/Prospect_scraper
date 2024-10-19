@@ -26,7 +26,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28521,Matteo,Michels,2005,2005-06-29,TX,,0
 28359,Nolan,Flamand,2004,2004-01-12,SK,,OA
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
-29554,Noah,Kosick,2008,2008-08-18,,,0
+29554,Noah,Kosick,2008,2008-08-18,BC,,0
 29592,Brandon,Osborne,2006,2006-04-13,BC,,0
 29774,Axel,Hurtig,2005,2005-06-10,,Sweden,0
 29485,Hunter,Aura,2007,2007-10-22,BC,,0
@@ -45,6 +45,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29165,Fraser,Leonard,2006,2006-06-22,AB,Canada,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 28477,Ethan,Buenaventura,2004,2004-06-22,MB,,OA
+29606,Kason,Kobelka,2007,2007-07-27,AB,,0
 29602,Eric,Tu,2008,2008-10-26,BC,,0
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
@@ -165,7 +166,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29486,Pavel,McKenzie,2005,2005-10-08,SK,Canada,0
 29318,Aiden,Ziprick,2005,2005-12-08,MB,Canada,0
 29228,Ethan,Hughes,2006,2006-10-08,AB,Canada,0
-29740,Maxon,Johnston,2009,2009-12-09,SK,Canada,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 28812,Jackson,Unger,2005,2005-01-13,AB,Canada,0
 29334,Dimitri,Fortin,2006,2006-05-19,MB,Canada,0
@@ -173,7 +173,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,Canada,OA
-29449,Carson,Deichert,2008,2008-07-28,SK,Canada,0
 29234,Vojtech,Port,2005,2005-08-03,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
@@ -288,7 +287,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
 29086,Jaxsin,Vaughan,2006,2006-01-10,BC,Canada,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,United States,OA
-29459,Samuel,Laplante,2007,2007-01-14,AB,,0
 28776,Sam,Oremba,2005,2005-01-19,SK,Canada,0
 29458,Zachary,Lansard,2008,2008-07-29,MB,,0
 29455,Ewan,Huet,2005,2005-02-08,SUI,,0
