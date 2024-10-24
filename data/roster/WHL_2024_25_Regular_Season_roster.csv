@@ -13,10 +13,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29715,Ben,Binder Nord,2007,2007-05-15,AB,,0
 28800,Luke,Shipley,2004,2004-08-08,BC,,OA
 29314,Easton,Odut,2007,2007-08-27,MB,,0
-29716,Chase,Surkan,2009,2009-03-21,SK,,0
 29220,Ethan,Eskit,2006,2006-01-07,AB,,0
 28848,Rhett,Ravndahl,2005,2005-02-26,SK,,0
-29717,Prabh,Bhathal,2009,2009-05-14,MB,,0
 29099,Nicholas,Johnson,2005,2005-01-20,AB,,0
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
 29601,Brady,Turko,2007,2007-09-12,MB,,0
@@ -218,28 +216,28 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,OA
 29159,Cooper,Anderson,2007,2007-05-17,BC,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
-28917,Bauer,Dumanski,2005,2005-01-05,SK,,0
-28921,Ephram,McNutt,2005,2005-05-04,AB,,0
-29468,Carson,Carels,2008,2008-06-23,MB,,0
+28917,Bauer,Dumanski,2005,2005-01-05,SK,Canada,0
+28921,Ephram,McNutt,2005,2005-05-04,AB,Canada,0
+29468,Carson,Carels,2008,2008-06-23,MB,Canada,0
 28919,Viliam,Kmec,2004,2004-01-02,,Slovakia,OA
-29478,Patrick,Sopiarz,2008,2008-03-05,AB,,0
-29105,Hunter,Laing,2006,2006-05-16,BC,,0
-28489,Koehn,Ziemmer,2004,2004-12-08,AB,,OA
-29470,Aiden,Foster,2007,2007-02-05,AB,,0
-28860,Borya,Valis,2004,2004-04-08,CO,,OA
-28941,Van,Eger,2005,2005-03-18,SK,,0
-28888,Evan,Groening,2005,2005-04-12,MB,,0
-29269,Lee,Shurgot,2007,2007-03-23,SK,,0
+29478,Patrick,Sopiarz,2008,2008-03-05,AB,Canada,0
+29105,Hunter,Laing,2006,2006-05-16,BC,Canada,0
+28489,Koehn,Ziemmer,2004,2004-12-08,AB,Canada,OA
+29470,Aiden,Foster,2007,2007-02-05,AB,Canada,0
+28860,Borya,Valis,2004,2004-04-08,CO,United States,OA
+28941,Van,Eger,2005,2005-03-18,SK,Canada,0
+28888,Evan,Groening,2005,2005-04-12,MB,Canada,0
+29269,Lee,Shurgot,2007,2007-03-23,SK,Canada,0
 29711,Arseni,Anisimov,2007,2007-11-25,,Russia,0
-28798,Riley,Heidt,2005,2005-03-25,SK,,0
-29473,Kayden,Lemire,2008,2008-01-27,AB,,0
-28927,Matteo,Danis,2005,2005-03-27,AB,,0
-29467,Joshua,Ravensbergen,2006,2006-11-27,BC,,0
-29272,Terik,Parascak,2006,2006-05-28,AB,,0
+28798,Riley,Heidt,2005,2005-03-25,SK,Canada,0
+29473,Kayden,Lemire,2008,2008-01-27,AB,Canada,0
+28927,Matteo,Danis,2005,2005-03-27,AB,Canada,0
+29467,Joshua,Ravensbergen,2006,2006-11-27,BC,Canada,0
+29272,Terik,Parascak,2006,2006-05-28,AB,Canada,0
 29111,Cooper,Michaluk,2005,2005-01-23,AB,Canada,0
-29476,Dermot,Johnston,2008,2008-05-04,AB,,0
-29271,Jett,Lajoie,2007,2007-02-05,MB,,0
-29273,Leith,Hunter,2007,2007-04-03,BC,,0
+29476,Dermot,Johnston,2008,2008-05-04,AB,Canada,0
+29271,Jett,Lajoie,2007,2007-02-05,MB,Canada,0
+29273,Leith,Hunter,2007,2007-04-03,BC,Canada,0
 29523,Derek,Thurston,2006,2006-05-04,BC,Canada,0
 29521,Jake,Missura,2008,2008-06-07,SK,Canada,0
 29233,Luke,Vlooswyk,2007,2007-01-07,,,0
@@ -282,6 +280,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29087,Corbin,Vaughan,2006,2006-01-10,BC,Canada,0
 28923,Zackary,Shantz,2005,2005-09-09,AB,,0
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
+29718,Kristian,Lacelle,2007,2007-09-23,SK,,0
 29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
 29086,Jaxsin,Vaughan,2006,2006-01-10,BC,Canada,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,United States,OA
