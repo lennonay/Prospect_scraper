@@ -122,39 +122,39 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29342,Landen,Ward,2006,2006-04-19,AB,Canada,0
 29213,Koen,Cleaver,2007,2007-03-28,BC,Canada,0
 29123,Brady,Smith,2005,2005-05-31,BC,Canada,0
-29174,Nate,Corbet,2006,2006-03-15,AB,,0
-29380,Riley,Steen,2008,2008-09-08,BC,,0
-29195,Matt,Paranych,2007,2007-04-23,AB,,0
-29188,Kadon,McCann,2007,2007-03-25,AB,,0
-29185,Hayden,Harsanyi,2007,2007-01-10,AB,,0
-28431,Oasiz,Wiesblatt,2004,2004-04-08,AB,,OA
-28344,Mathew,Ward,2004,2004-01-24,BC,,OA
+29174,Nate,Corbet,2006,2006-03-15,AB,Canada,0
+29195,Matt,Paranych,2007,2007-04-23,AB,Canada,0
+29188,Kadon,McCann,2007,2007-03-25,AB,Canada,0
+29185,Hayden,Harsanyi,2007,2007-01-10,AB,Canada,0
+28431,Oasiz,Wiesblatt,2004,2004-04-08,AB,Canada,OA
+28344,Mathew,Ward,2004,2004-01-24,BC,Canada,OA
 29627,Shaeffer,Gordon-Carroll,2008,2008-11-26,UT,United States,0
-29383,Liam,Ruck,2008,2008-02-21,BC,,0
-28952,Hunter,St. Martin,2005,2005-06-13,AB,,0
+29383,Liam,Ruck,2008,2008-02-21,BC,Canada,0
+28952,Hunter,St. Martin,2005,2005-06-13,AB,Canada,0
+29889,Carter,Cunningham,2006,2006-01-11,AB,Canada,0
 29025,Jonas,Woo,2006,2006-11-19,MB,Canada,0
 29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
-28946,Josh,Van Mulligen,2005,2005-07-26,AB,,0
+28946,Josh,Van Mulligen,2005,2005-07-26,AB,Canada,0
 29641,Veeti,Väisänen,2006,2006-02-15,,Finland,0
-29187,Jack,Kachkowski,2007,2007-01-14,AB,,0
+29187,Jack,Kachkowski,2007,2007-01-14,AB,Canada,0
 29638,Niilopekka,Muhonen,2006,2006-02-28,,Finland,0
-29384,Markus,Ruck,2008,2008-02-21,BC,,0
+29384,Markus,Ruck,2008,2008-02-21,BC,Canada,0
 29125,Bryce,Pickford,2006,2006-04-02,AB,Canada,0
-29094,Cayden,Lindstrom,2006,2006-02-03,BC,,0
-29381,Koray,Bozkaya,2008,2008-08-22,BC,,0
-29198,Jordan,Switzer,2007,2007-01-26,AB,,0
-29115,Ethan,McCallum,2006,2006-04-11,MB,,0
-28949,Andrew,Basha,2005,2005-11-08,AB,,0
+29094,Cayden,Lindstrom,2006,2006-02-03,BC,Canada,0
+29198,Jordan,Switzer,2007,2007-01-26,AB,Canada,0
+29115,Ethan,McCallum,2006,2006-04-11,MB,Canada,0
+28949,Andrew,Basha,2005,2005-11-08,AB,Canada,0
 28935,Harrison,Meneghin,2004,2004-09-13,BC,Canada,OA
-29608,Brayden,Ryan-MacKay,2008,2008-06-20,AB,,0
-28823,Marcus,Pacheco,2005,2005-04-06,AB,,0
-29192,Gavin,McKenna,2007,2007-12-20,YT,,0
+29608,Brayden,Ryan-MacKay,2008,2008-06-20,AB,Canada,0
+28823,Marcus,Pacheco,2005,2005-04-06,AB,Canada,0
+29192,Gavin,McKenna,2007,2007-12-20,YT,Canada,0
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
 29737,Nolan,Paquette,2007,2007-02-14,AB,Canada,0
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
 28370,Kalem,Parker,2004,2004-10-12,SK,Canada,OA
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
+29738,Tyson,Schamehorn,2008,2008-03-06,BC,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
 29121,Lynden,Lakovic,2006,2006-12-12,BC,Canada,0
@@ -206,6 +206,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
 28829,Aiden,Oiring,2005,2005-05-09,AB,Canada,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
+29157,Dayce,Derkatch,2007,2007-05-30,SK,Canada,0
 29421,Riley,Boychuk,2008,2008-01-31,AB,Canada,0
 28403,Niall,Crocker,2004,2004-07-31,BC,Canada,OA
 29551,Ty,Meunier,2008,2008-08-16,AB,Canada,0
@@ -284,7 +285,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
 29086,Jaxsin,Vaughan,2006,2006-01-10,BC,Canada,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,United States,OA
-28776,Sam,Oremba,2005,2005-01-19,SK,Canada,0
 29458,Zachary,Lansard,2008,2008-07-29,MB,,0
 29455,Ewan,Huet,2005,2005-02-08,SUI,,0
 28731,Ben,Saunderson,2004,2004-09-26,MB,,OA
@@ -483,7 +483,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28960,Justin,Kipkie,2005,2005-07-28,AB,Canada,0
 29293,Seth,Fryer,2006,2006-06-23,BC,Canada,0
 29147,Kyle,Marsden,2006,2006-07-13,NF,,0
-28392,Brayden,Boehm,2004,2004-01-15,BC,,OA
+28392,Brayden,Boehm,2004,2004-01-15,BC,Canada,OA
 29291,Cole,Reschny,2007,2007-04-06,SK,Canada,0
 28452,Vaughn,Watterodt,2004,2004-02-13,SK,,OA
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
