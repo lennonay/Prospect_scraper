@@ -100,7 +100,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28421,Logan,McCutcheon,2004,2004-01-19,SK,Canada,OA
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29212,Carsen,Adair,2007,2007-02-14,SK,Canada,0
-29658,Reid,Soper,2009,2009-01-19,AB,Canada,0
 29316,Kale,Tipler,2006,2006-08-15,AB,Canada,0
 28740,Noah,Chadwick,2005,2005-05-10,SK,Canada,0
 29124,Tristen,Doyle,2006,2006-02-17,AB,Canada,0
@@ -114,7 +113,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
 29387,Chase,Petersen,2008,2008-05-19,SK,Canada,0
 28825,Hayden,Pakkala,2004,2004-01-28,AB,Canada,OA
-29655,Will,Scott,2008,2008-05-03,BC,Canada,0
 29208,Kash,Andresen,2007,2007-07-20,SK,Canada,0
 28839,Trae,Johnson,2005,2005-05-03,SK,Canada,0
 29587,Gavin,Lesiuk,2008,2008-01-14,BC,Canada,0
@@ -426,7 +424,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29297,Grant,Reid,2007,2007-05-28,BC,Canada,0
 29107,Maddix,McCagherty,2006,2006-06-07,BC,,0
 28534,Deagan,McMillan,2005,2005-01-21,BC,Canada,0
-29035,Hayden,Moore,2006,2006-05-19,MB,Canada,0
 29145,Miles,Cooper,2006,2006-08-04,AB,,0
 28790,Reid,Andresen,2005,2005-04-29,SK,,0
 28992,Zane,Saab,2006,2006-02-21,AB,Canada,0
@@ -495,6 +492,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29505,Wyatt,Danyleyko,2007,2007-07-24,BC,Canada,0
 29729,Nolan,Stewart,2008,2008-01-12,AB,Canada,0
 29508,Keaton,Verhoeff,2008,2008-06-19,AB,Canada,0
+29035,Hayden,Moore,2006,2006-05-19,MB,Canada,0
 29625,Markus,Loponen,2006,2006-06-17,,Finland,0
 29626,Simon,Pohludka,2006,2006-02-10,,Czechia,0
 28840,Teydon,Trembecky,2005,2005-04-28,AB,Canada,0
