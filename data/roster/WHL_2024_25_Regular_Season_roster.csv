@@ -38,6 +38,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
 29780,Robin,Svancara,2007,2007-05-22,,Czechia,0
 28940,Connor,Hvidston,2004,2004-09-11,SK,,OA
+29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 28477,Ethan,Buenaventura,2004,2004-06-22,MB,,OA
@@ -215,7 +216,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,OA
 29159,Cooper,Anderson,2007,2007-05-17,BC,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
-29668,Brock,Cripps,2009,2009-07-23,BC,Canada,0
 28917,Bauer,Dumanski,2005,2005-01-05,SK,Canada,0
 28921,Ephram,McNutt,2005,2005-05-04,AB,Canada,0
 29468,Carson,Carels,2008,2008-06-23,MB,Canada,0
