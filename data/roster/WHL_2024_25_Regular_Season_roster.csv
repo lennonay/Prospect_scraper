@@ -13,6 +13,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29715,Ben,Binder Nord,2007,2007-05-15,AB,,0
 28800,Luke,Shipley,2004,2004-08-08,BC,,OA
 29314,Easton,Odut,2007,2007-08-27,MB,,0
+29716,Chase,Surkan,2009,2009-03-21,SK,,0
 29220,Ethan,Eskit,2006,2006-01-07,AB,,0
 28848,Rhett,Ravndahl,2005,2005-02-26,SK,,0
 29099,Nicholas,Johnson,2005,2005-01-20,AB,,0
@@ -41,7 +42,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
-28477,Ethan,Buenaventura,2004,2004-06-22,MB,,OA
+29606,Kason,Kobelka,2007,2007-07-27,AB,,0
 29602,Eric,Tu,2008,2008-10-26,BC,,0
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
@@ -429,9 +430,9 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28992,Zane,Saab,2006,2006-02-21,AB,Canada,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
 29549,Caelan,Joudrey,2008,2008-01-17,AB,Canada,0
-28961,Zach,Zahara,2005,2005-03-21,AB,,0
 28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
+28961,Zach,Zahara,2005,2005-03-21,AB,,0
 29431,Kenta,Isogai,2004,2004-08-28,,Japan,OA
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
@@ -449,6 +450,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29442,Adam,Titlbach,2006,2006-02-15,,Czechia,0
 28549,Tyler,Thorpe,2005,2005-08-11,BC,,0
 29533,Brett,Olson,2008,2008-02-24,AB,Canada,0
+29771,Blake,Chorney,2009,2009-05-13,SK,,0
 29179,Kolby,Gapter,2006,2006-07-30,CO,United States,0
 28467,Connor,Levis,2004,2004-10-05,BC,,OA
 29773,Torretto,Marrelli,2007,2007-08-04,AB,,0
@@ -523,7 +525,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29071,Alex,Worthington,2005,2005-02-05,SK,,0
 29542,Hudson,Perry,2007,2007-05-30,AB,,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
-29394,Cage,Smith,2008,2008-12-24,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
