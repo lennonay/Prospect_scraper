@@ -95,7 +95,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29082,Jari,Kykkanen,2004,2004-08-16,AB,,OA
 29275,Jake,Pilon,2006,2006-10-12,AB,,0
 28421,Logan,McCutcheon,2004,2004-01-19,SK,Canada,OA
-29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29212,Carsen,Adair,2007,2007-02-14,SK,Canada,0
 29316,Kale,Tipler,2006,2006-08-15,AB,Canada,0
 28740,Noah,Chadwick,2005,2005-05-10,SK,Canada,0
@@ -146,7 +145,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29737,Nolan,Paquette,2007,2007-02-14,AB,Canada,0
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
-28370,Kalem,Parker,2004,2004-10-12,SK,Canada,OA
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
@@ -165,6 +163,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,Canada,OA
 28488,Keaton,Dowhaniuk,2004,2004-02-08,AB,,OA
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
+29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
 29529,Cohen,Massey,2006,2006-07-06,BC,,0
 29530,Kayd,Ruedig,2007,2007-07-07,SK,,0
@@ -194,7 +193,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29148,Justice,Christensen,2005,2005-08-30,AB,Canada,0
 29405,Vojtech,Vochvest,2005,2005-10-20,CZE,Czechia,0
 29416,Daxon,Rudolph,2008,2008-03-06,AB,Canada,0
-29894,Liam,Myhre,2009,2009-05-16,SK,Canada,0
 28870,Brayden,Dube,2005,2005-09-22,MB,Canada,0
 29053,Cole,Peardon,2006,2006-03-26,SK,Canada,0
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
@@ -265,17 +263,17 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28281,Tye,Spencer,2004,2004-06-27,SK,,OA
 29474,Connor,Bear,2007,2007-06-11,SK,,0
 29890,Jace,Egland,2007,2007-10-22,SK,,0
+28922,Caden,Brown,2005,2005-03-22,BC,,0
 29217,Cole,Temple,2007,2007-03-20,MB,,0
 29041,Tyson,Buczkowski,2006,2006-01-27,SK,,0
 28883,Kelton,Pyne,2005,2005-09-03,SK,,0
+29409,Zach,Pantelakis,2007,2007-10-18,BC,,0
 29218,Brayden,Smith,2007,2007-04-16,SK,,0
 29454,Cohen,Klassen,2008,2008-09-08,SK,,0
 29617,Dayton,Deschamps,2007,2007-08-19,SK,,0
-29087,Corbin,Vaughan,2006,2006-01-10,BC,Canada,0
 28923,Zackary,Shantz,2005,2005-09-09,AB,,0
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
 29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
-29086,Jaxsin,Vaughan,2006,2006-01-10,BC,Canada,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,United States,OA
 29458,Zachary,Lansard,2008,2008-07-29,MB,,0
 29455,Ewan,Huet,2005,2005-02-08,SUI,,0
