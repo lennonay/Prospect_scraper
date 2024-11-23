@@ -38,7 +38,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
 29780,Robin,Svancara,2007,2007-05-22,,Czechia,0
 28940,Connor,Hvidston,2004,2004-09-11,SK,,OA
-29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 29895,Anders,Miller,2006,2006-10-04,AK,United States,0
@@ -94,7 +93,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29689,Jacob,Henderson,2008,2008-03-13,BC,,0
 28767,Andrew,Cristall,2005,2005-02-04,BC,,0
 29007,Hiroki,Gojsic,2006,2006-05-01,BC,,0
-29082,Jari,Kykkanen,2004,2004-08-16,AB,,OA
 29275,Jake,Pilon,2006,2006-10-12,AB,,0
 28421,Logan,McCutcheon,2004,2004-01-19,SK,Canada,OA
 29212,Carsen,Adair,2007,2007-02-14,SK,Canada,0
@@ -213,6 +211,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,OA
 29159,Cooper,Anderson,2007,2007-05-17,BC,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
+29901,Hudson (AP),Sedo,2006,2006-07-25,AB,Canada,0
 28917,Bauer,Dumanski,2005,2005-01-05,SK,Canada,0
 28921,Ephram,McNutt,2005,2005-05-04,AB,Canada,0
 29468,Carson,Carels,2008,2008-06-23,MB,Canada,0
@@ -253,6 +252,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29516,Beckett,Hamilton,2008,2008-03-28,SK,Canada,0
 29734,Kasper,Pikkarainen,2006,2006-08-07,,Finland,0
 28449,Jhett,Larson,2004,2004-02-03,SK,,OA
+29900,Dmitri,Toporowski,2006,2006-08-11,MA,United States,0
 29245,Evan,Smith,2006,2006-04-22,,,0
 28857,Talon,Brigley,2005,2005-02-16,AB,Canada,0
 29784,Jack,Bousquet,2007,2007-12-18,TX,United States,0
@@ -448,6 +448,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28467,Connor,Levis,2004,2004-10-05,BC,,OA
 28871,Ethan,Mittelsteadt,2005,2005-12-18,BC,Canada,0
 29773,Torretto,Marrelli,2007,2007-08-04,AB,,0
+28723,Carter,Capton,2005,2005-07-20,AB,Canada,0
 29290,Burke,Hood,2007,2007-04-30,MB,,0
 29539,Caden,Cail,2007,2007-08-17,BC,Canada,0
 29089,Marek,Howell,2006,2006-05-19,AB,Canada,0
