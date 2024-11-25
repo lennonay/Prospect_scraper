@@ -147,7 +147,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
-28488,Keaton,Dowhaniuk,2004,2004-02-08,AB,,OA
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
 29121,Lynden,Lakovic,2006,2006-12-12,BC,Canada,0
@@ -163,8 +162,9 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,Canada,OA
-29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
+28488,Keaton,Dowhaniuk,2004,2004-02-08,AB,,OA
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
+29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
 29529,Cohen,Massey,2006,2006-07-06,BC,,0
 29530,Kayd,Ruedig,2007,2007-07-07,SK,,0
@@ -458,6 +458,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29683,Landon,DuPont,2009,2009-05-28,AB,,0
 28773,Beau,Courtney,2004,2004-01-12,CO,United States,OA
 29026,Carter,Bear,2006,2006-11-04,MB,,0
+29396,Rhys,Jamieson,2008,2008-02-03,AB,,0
 29399,Clarke,Schaefer,2007,2007-04-17,AB,,0
 29189,Dominik,Rymon,2004,2004-05-29,,Czechia,OA
 29398,Julius,Miettinen,2006,2006-01-20,,Finland,0
