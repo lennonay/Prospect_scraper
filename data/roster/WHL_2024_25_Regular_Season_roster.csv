@@ -309,10 +309,10 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28831,Ashton,Cumby,2005,2005-07-19,AB,Canada,0
 28980,Hyde,Davidson,2006,2006-01-23,AB,Canada,0
 29369,Vanek,Popil,2008,2008-05-14,AB,Canada,0
-29276,Will,Jamieson,2006,2006-10-25,AB,Canada,0
 28872,Coster,Dunn,2005,2005-09-13,AB,Canada,0
 29371,Brendan,Rudolph,2008,2008-03-08,AB,Canada,0
 29370,Colton,Gerrior,2008,2008-10-07,BC,Canada,0
+29902,Radim,Mrtka,2007,2007-06-09,,Czechia,0
 29136,Simon,Lovsin,2006,2006-01-22,AB,Canada,0
 28797,Kyren,Gronick,2004,2004-02-27,SK,,OA
 29513,Brayden,Holberton,2007,2007-06-14,BC,Canada,0
@@ -468,10 +468,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29078,Tarin,Smith,2006,2006-03-24,SK,Canada,0
 29338,Lukas,Kaplan,2007,2007-06-30,AB,,0
 29197,Andrew,Petruk,2005,2005-06-08,BC,,0
-29194,Julien,Maze,2007,2007-12-07,AB,,0
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
-29402,Finn,Werner,2008,2008-02-17,AB,,0
 29898,Raiden,LeGall,2006,2006-09-16,MB,,0
 29404,Brek,Liske,2008,2008-01-09,MB,,0
 29403,Kaeson,Fisher,2007,2007-04-04,MB,,0
