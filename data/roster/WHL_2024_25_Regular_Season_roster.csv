@@ -225,6 +225,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28888,Evan,Groening,2005,2005-04-12,MB,Canada,0
 29269,Lee,Shurgot,2007,2007-03-23,SK,Canada,0
 29711,Arseni,Anisimov,2007,2007-11-25,,Russia,0
+29664,Ryan,Richter,2008,2008-03-20,BC,,0
 28798,Riley,Heidt,2005,2005-03-25,SK,Canada,0
 29473,Kayden,Lemire,2008,2008-01-27,AB,Canada,0
 28927,Matteo,Danis,2005,2005-03-27,AB,Canada,0
@@ -447,7 +448,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28467,Connor,Levis,2004,2004-10-05,BC,,OA
 28871,Ethan,Mittelsteadt,2005,2005-12-18,BC,Canada,0
 29773,Torretto,Marrelli,2007,2007-08-04,AB,,0
-28723,Carter,Capton,2005,2005-07-20,AB,Canada,0
 29290,Burke,Hood,2007,2007-04-30,MB,,0
 29539,Caden,Cail,2007,2007-08-17,BC,Canada,0
 29089,Marek,Howell,2006,2006-05-19,AB,Canada,0
@@ -518,7 +518,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29071,Alex,Worthington,2005,2005-02-05,SK,,0
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
-29594,Parker,Snell,2008,2008-04-21,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
