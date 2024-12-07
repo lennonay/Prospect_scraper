@@ -109,11 +109,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
 29387,Chase,Petersen,2008,2008-05-19,SK,Canada,0
 28825,Hayden,Pakkala,2004,2004-01-28,AB,Canada,OA
-29234,Vojtech,Port,2005,2005-08-03,,Czechia,0
+29234,Vojtech,Port,2005,2005-08-03,CZE,Czechia,0
 29208,Kash,Andresen,2007,2007-07-20,SK,Canada,0
 28839,Trae,Johnson,2005,2005-05-03,SK,Canada,0
 29587,Gavin,Lesiuk,2008,2008-01-14,BC,Canada,0
-29584,Leo,Braillard,2005,2005-07-05,,Switzerland,0
+29584,Leo,Braillard,2005,2005-07-05,SUI,Switzerland,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 29213,Koen,Cleaver,2007,2007-03-28,BC,Canada,0
 28812,Jackson,Unger,2005,2005-01-13,AB,Canada,0
@@ -187,6 +187,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29772,Brodie,Hankel,2006,2006-01-26,AB,,0
 29753,Reed,Brown,2008,2008-02-22,AZ,United States,0
 29597,Marek,Schlenker,2006,2006-04-01,AB,,0
+29906,Alex,Weiermair,2005,2005-05-10,CA,United States,0
 29006,Diego,Buttazzoni,2006,2006-01-13,BC,,0
 29756,Aaron,Zulinick,2008,2008-04-28,B.C.,,0
 29412,Tyrone,Sobry,2006,2006-07-13,SK,Canada,0
@@ -399,6 +400,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29489,Lukas,Matecha,2005,2005-03-21,,Czechia,0
 29595,Nathan,Preston,2005,2005-11-12,BC,,0
 29491,Cruz,Pavao,2008,2008-08-24,AB,Canada,0
+29905,Ryan,Grout,2007,2007-08-15,AB,,0
 28986,Gavin,Garland,2006,2006-02-06,AB,Canada,0
 29265,Ismail,Abougouche,2006,2006-01-30,AB,,0
 29488,Max,Curran,2006,2006-08-27,,Czechia,0
@@ -470,6 +472,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
 28999,Jesse,Sanche,2006,2006-03-19,BC,,0
 29898,Raiden,LeGall,2006,2006-09-16,MB,,0
+29907,Shea,Busch,2007,2007-06-12,BC,,0
 29404,Brek,Liske,2008,2008-01-09,MB,,0
 29403,Kaeson,Fisher,2007,2007-04-04,MB,,0
 29681,Owen,Cooper,2008,2008-08-11,AB,,0
