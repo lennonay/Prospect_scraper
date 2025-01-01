@@ -5,7 +5,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
 29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
-28995,Garrett,Thom,2006,2006-04-17,AB,Canada,0
 29561,Nigel,Boehm,2008,2008-09-22,SK,,0
 29112,Roger,McQueen,2006,2006-10-02,SK,,0
 29721,Adam,Belusko,2006,2006-04-12,,Slovakia,0
@@ -18,6 +17,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29220,Ethan,Eskit,2006,2006-01-07,AB,,0
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
 28848,Rhett,Ravndahl,2005,2005-02-26,SK,,0
+29717,Prabh,Bhathal,2009,2009-05-14,MB,,0
 29099,Nicholas,Johnson,2005,2005-01-20,AB,,0
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
 29601,Brady,Turko,2007,2007-09-12,MB,,0
@@ -56,6 +56,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29333,Samuel,Borschowa,2005,2005-01-21,SK,Canada,0
 29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,Czechia,0
+29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 29344,Max,Sullivan,2006,2006-05-25,AB,,0
 28721,Emmitt,Finnie,2005,2005-06-27,AB,,0
 29140,Conner,Radke,2006,2006-04-23,AB,,0
@@ -204,7 +205,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29911,Luke,Wilfley,2008,2008-06-30,CO,,0
 29412,Tyrone,Sobry,2006,2006-07-13,SK,Canada,0
 28523,Lukas,Dragicevic,2005,2005-04-25,BC,Canada,0
-29413,Doogan,Pederson,2006,2006-06-27,BC,Canada,0
+28717,Matteo,Fabrizi,2005,2005-03-23,AB,Canada,0
 29148,Justice,Christensen,2005,2005-08-30,AB,Canada,0
 29405,Vojtech,Vochvest,2005,2005-10-20,CZE,Czechia,0
 29416,Daxon,Rudolph,2008,2008-03-06,AB,Canada,0
@@ -252,7 +253,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29521,Jake,Missura,2008,2008-06-07,SK,Canada,0
 29233,Luke,Vlooswyk,2007,2007-01-07,,,0
 28390,Hunter,Mayo,2004,2004-05-07,SK,,OA
-28717,Matteo,Fabrizi,2005,2005-03-23,AB,Canada,0
 28388,Jace,Weir,2004,2004-05-21,BC,,OA
 29236,Matthew,Gard,2007,2007-04-07,,,0
 29732,Cohen,Poulin,2007,2007-06-10,BC,,0
