@@ -309,6 +309,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29425,Colten,Worthington,2007,2007-08-24,MB,,0
 29644,Jaggar,John,2009,2009-07-17,AB,,0
 28895,Misha,Volotovskii,2005,2005-06-23,AB,,0
+29645,Kohen,Lodge,2008,2008-10-05,AB,,0
 28893,Ben,Riche,2005,2005-03-15,SK,Canada,0
 28901,Tyler,Parr,2005,2005-01-30,MB,,0
 28429,Grayden,Siepmann,2004,2004-05-26,BC,Canada,OA
@@ -339,6 +340,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28896,Nathan,Pilling,2004,2004-06-22,AB,Canada,OA
 29590,Grayson,Malinoski,2007,2007-04-11,SK,Canada,0
 28813,Scott,Ratzlaff,2005,2005-03-09,AB,Canada,0
+28898,Matthew,Gallant,2004,2004-01-16,BC,Canada,OA
 28705,Sawyer,Mynio,2005,2005-04-30,BC,Canada,0
 28856,Arjun,Bawa,2005,2005-05-10,BC,Canada,0
 29139,Kazden,Mathies,2007,2007-04-07,SK,Canada,0
@@ -443,7 +445,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29549,Caelan,Joudrey,2008,2008-01-17,AB,Canada,0
 28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
-29431,Kenta,Isogai,2004,2004-08-28,,Japan,OA
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
 29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
@@ -516,6 +517,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29109,Jayden,Kraus,2006,2006-11-18,SK,Canada,0
 29244,Escalus,Burlock,2006,2006-04-11,,,0
 29232,Spencer,Michnik,2006,2006-10-07,AB,Canada,0
+29431,Kenta,Isogai,2004,2004-08-28,,Japan,OA
 28847,Josh,Mori,2004,2004-03-27,BC,,OA
 29374,Blake,Fiddler,2007,2007-07-09,TX,United States,0
 29201,Rhys,Pederson,2006,2006-09-08,AB,,0
