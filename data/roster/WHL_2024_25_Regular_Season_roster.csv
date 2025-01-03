@@ -36,7 +36,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29573,Koy,Funk,2008,2008-08-01,MB,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
-29058,Maxim,Muranov,2004,2004-06-02,,Russia,OA
 29129,Carson,Wetsch,2006,2006-06-05,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
@@ -46,6 +45,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28733,Lukas,Hansen,2005,2005-02-22,MB,,0
 29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 29895,Anders,Miller,2006,2006-10-04,AK,United States,0
+28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29602,Eric,Tu,2008,2008-10-26,BC,,0
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 29768,Calder,Hamilton,2009,2009-03-08,SK,,0
@@ -56,7 +56,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29333,Samuel,Borschowa,2005,2005-01-21,SK,Canada,0
 29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,Czechia,0
-29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 29344,Max,Sullivan,2006,2006-05-25,AB,,0
 28721,Emmitt,Finnie,2005,2005-06-27,AB,,0
 29140,Conner,Radke,2006,2006-04-23,AB,,0
@@ -66,6 +65,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
 29437,Ty,Bonkowski,2008,2008-07-09,BC,,0
 29407,Tommy,Lafreniere,2007,2007-01-16,BC,,0
+29329,Jager,Gugyelka,2007,2007-01-11,AB,,0
 28979,Harrison,Brunicke,2006,2006-05-08,AB,,0
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
@@ -114,11 +114,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29651,Cameron,Norrie,2007,2007-05-29,BC,Canada,0
 29072,Miguel,Marques,2006,2006-03-08,BC,Canada,0
 28852,Kooper,Gizowski,2005,2005-05-05,AB,Canada,0
+29659,Kai,Anderson,2008,2008-04-07,BC,Canada,0
 29211,Will,Sharpe,2007,2007-03-07,BC,Canada,0
 28709,Logan,Wormald,2005,2005-08-12,BC,Canada,0
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
 29387,Chase,Petersen,2008,2008-05-19,SK,Canada,0
-29912,Easton,Daneault,2008,2008-04-23,AB,Canada,0
 29653,Tyden,Lafournaise,2009,2009-03-17,MB,Canada,0
 29234,Vojtech,Port,2005,2005-08-03,CZE,Czechia,0
 29208,Kash,Andresen,2007,2007-07-20,SK,Canada,0
@@ -181,7 +181,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
 29530,Kayd,Ruedig,2007,2007-07-07,SK,,0
-29324,Braeden,Jockims,2005,2005-05-22,SK,,0
 29526,Jordan,Duguay,2008,2008-02-16,AB,,0
 29612,Cole,Slobodian,2006,2006-04-02,MB,,0
 28719,Joel,Plante,2005,2005-06-26,B.C.,,0
@@ -209,7 +208,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29148,Justice,Christensen,2005,2005-08-30,AB,Canada,0
 29405,Vojtech,Vochvest,2005,2005-10-20,CZE,Czechia,0
 29416,Daxon,Rudolph,2008,2008-03-06,AB,Canada,0
-29910,Vincent,Palmarin,2005,2005-11-19,SK,Canada,0
 28870,Brayden,Dube,2005,2005-09-22,MB,Canada,0
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
 28829,Aiden,Oiring,2005,2005-05-09,AB,Canada,0
@@ -253,6 +251,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29521,Jake,Missura,2008,2008-06-07,SK,Canada,0
 29233,Luke,Vlooswyk,2007,2007-01-07,,,0
 28390,Hunter,Mayo,2004,2004-05-07,SK,,OA
+29413,Doogan,Pederson,2006,2006-06-27,BC,Canada,0
 28388,Jace,Weir,2004,2004-05-21,BC,,OA
 29236,Matthew,Gard,2007,2007-04-07,,,0
 29732,Cohen,Poulin,2007,2007-06-10,BC,,0
@@ -302,7 +301,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29161,Jordan,Martin,2007,2007-01-08,BC,Canada,0
 29162,Brayden,Klimpke,2007,2007-10-08,AB,Canada,0
 29004,Cameron,Sytsma,2006,2006-01-09,BC,,0
-28354,Brandon,Lisowsky,2004,2004-04-13,BC,,OA
 29429,Zach,Olsen,2008,2008-03-16,AB,,0
 29160,Hudson,Kibblewhite,2007,2007-04-07,BC,Canada,0
 29163,Isaac,Poll,2007,2007-05-03,SK,Canada,0
@@ -316,6 +314,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28894,Rowan,Calvert,2005,2005-09-01,SK,Canada,0
 28718,Tanner,Molendyk,2005,2005-02-03,BC,,0
 29428,Cooper,Williams,2008,2008-02-18,AB,,0
+28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
 29115,Ethan,McCallum,2006,2006-04-11,MB,Canada,0
 28998,Evan,Gardner,2006,2006-01-25,BC,,0
 29166,Lochlan,Tetarenko,2007,2007-08-09,AB,Canada,0
@@ -443,7 +442,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29897,Brendan,Dunphy,2006,2006-02-02,CA,United States,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
 29549,Caelan,Joudrey,2008,2008-01-17,AB,Canada,0
-28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
 29079,Matthew,Hutchison,2006,2006-10-07,BC,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
@@ -499,7 +497,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29293,Seth,Fryer,2006,2006-06-23,BC,Canada,0
 28392,Brayden,Boehm,2004,2004-01-15,BC,Canada,OA
 29291,Cole,Reschny,2007,2007-04-06,SK,Canada,0
-28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
+28354,Brandon,Lisowsky,2004,2004-04-13,BC,,OA
 29127,Cosmo,Wilson,2005,2005-01-09,BC,Canada,0
 29298,Jerrett,Ross,2007,2007-06-06,AB,Canada,0
 29168,Daniel,Morozov,2007,2007-11-17,BC,Canada,0
@@ -524,7 +522,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29710,Noa,Ta'Amu,2008,2008-05-28,"CA, USA",,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
-29707,Kayden,Stroeder,2009,2009-03-01,SK,,0
 29204,Marshall,Finnie,2004,2004-01-02,AB,,OA
 28741,Cole,Miller,2005,2005-02-04,AB,Canada,0
 28381,Rylen,Roersma,2004,2004-07-25,AB,,OA
@@ -538,6 +535,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
+29594,Parker,Snell,2008,2008-04-21,AB,,0
+29394,Cage,Smith,2008,2008-12-24,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
