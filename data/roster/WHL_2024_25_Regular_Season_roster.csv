@@ -28,7 +28,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28359,Nolan,Flamand,2004,2004-01-12,SK,,OA
 29110,Dax,Williams,2005,2005-09-28,AB,Canada,0
 29554,Noah,Kosick,2008,2008-08-18,BC,,0
-29896,Linden,Burrett,2006,2006-02-06,BC,,0
 29774,Axel,Hurtig,2005,2005-06-10,,Sweden,0
 29485,Hunter,Aura,2007,2007-10-22,BC,,0
 28370,Kalem,Parker,2004,2004-10-12,SK,Canada,OA
@@ -36,14 +35,15 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29573,Koy,Funk,2008,2008-08-01,MB,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
+29238,Carson,Birnie,2005,2005-02-22,,,0
 29129,Carson,Wetsch,2006,2006-06-05,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
 29095,Ethan,Moore,2005,2005-02-23,AB,,0
 29748,Kale,McCann,2009,2009-10-15,AB,,0
 28940,Connor,Hvidston,2004,2004-09-11,SK,,OA
+29469,Easton,LaPlante,2008,2008-06-03,AB,,0
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 28733,Lukas,Hansen,2005,2005-02-22,MB,,0
-29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 29895,Anders,Miller,2006,2006-10-04,AK,United States,0
 28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29602,Eric,Tu,2008,2008-10-26,BC,,0
@@ -259,7 +259,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29119,Trae,Wilke,2006,2006-04-20,SK,,0
 28768,Kalan,Lind,2005,2005-01-25,SK,,0
 29514,Samuel,Drancak,2006,2006-02-04,,Czechia,0
-29238,Carson,Birnie,2005,2005-02-22,,,0
 29518,Steven,Steranka,2007,2007-10-02,SK,Canada,0
 29009,Ollie,Josephson,2006,2006-07-22,,,0
 29733,Nolan,Schmidt,2008,2008-03-08,AB,,0
@@ -323,9 +322,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29647,Cohen,Lewko,2009,2009-04-16,MB,,0
 29786,David,Lewandowski,2007,2007-02-20,,Germany,0
 28831,Ashton,Cumby,2005,2005-07-19,AB,Canada,0
+29896,Linden,Burrett,2006,2006-02-06,BC,,0
 28980,Hyde,Davidson,2006,2006-01-23,AB,Canada,0
 29369,Vanek,Popil,2008,2008-05-14,AB,Canada,0
 28872,Coster,Dunn,2005,2005-09-13,AB,Canada,0
+29330,Sawyer,Mayes,2007,2007-01-08,BC,,0
 29371,Brendan,Rudolph,2008,2008-03-08,AB,Canada,0
 29370,Colton,Gerrior,2008,2008-10-07,BC,Canada,0
 29902,Radim,Mrtka,2007,2007-06-09,,Czechia,0
