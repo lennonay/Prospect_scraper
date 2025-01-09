@@ -2,7 +2,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29719,Cameron,Allard,2008,2008-01-11,SK,,0
 29020,Merrek,Arpin,2006,2006-05-31,AB,Canada,0
 29720,Dylan,Ronald,2006,2006-11-09,AB,,0
-29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
 29444,Jaxon,Jacobson,2008,2008-12-11,MB,,0
 29221,Caleb,Hadland,2006,2006-03-06,AB,,0
@@ -18,7 +17,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29314,Easton,Odut,2007,2007-08-27,MB,,0
 29220,Ethan,Eskit,2006,2006-01-07,AB,,0
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
-28848,Rhett,Ravndahl,2005,2005-02-26,SK,,0
 29717,Prabh,Bhathal,2009,2009-05-14,MB,,0
 29099,Nicholas,Johnson,2005,2005-01-20,AB,,0
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
@@ -34,7 +32,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29485,Hunter,Aura,2007,2007-10-22,BC,,0
 28370,Kalem,Parker,2004,2004-10-12,SK,Canada,OA
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
-29573,Koy,Funk,2008,2008-08-01,MB,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
 29238,Carson,Birnie,2005,2005-02-22,,,0
@@ -48,20 +45,18 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28930,Carter,Yakemchuk,2005,2005-09-29,AB,,0
 28733,Lukas,Hansen,2005,2005-02-22,MB,,0
 29895,Anders,Miller,2006,2006-10-04,AK,United States,0
-28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29602,Eric,Tu,2008,2008-10-26,BC,,0
+28256,Daniel,Hauser,2004,2004-01-29,AB,,OA
 29130,Chase,Valliant,2006,2006-05-18,BC,,0
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
 29502,Brandon,Gorzynski,2007,2007-03-12,AZ,,0
 29747,Rylan,Ng,2008,2008-09-22,AB,,0
-29509,Dryden,Deobald,2008,2008-04-23,SK,,0
 29333,Samuel,Borschowa,2005,2005-01-21,SK,Canada,0
 29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,Czechia,0
 29344,Max,Sullivan,2006,2006-05-25,AB,,0
 28721,Emmitt,Finnie,2005,2005-06-27,AB,,0
 29140,Conner,Radke,2006,2006-04-23,AB,,0
-28293,Layton,Feist,2004,2004-01-26,BC,,OA
 28711,Ryan,Michael,2005,2005-02-05,BC,,0
 29524,Bryce,Minten,2006,2006-02-02,BC,,0
 29169,Nathan,Behm,2007,2007-04-18,AB,,0
@@ -72,9 +67,9 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
 28903,Jordan,Keller,2005,2005-03-08,BC,Canada,0
+29752,Joaquin,Geras,2009,2009-01-17,AB,,0
 28844,John,Szabo,2005,2005-05-24,AB,,0
 29722,Vit,Zahejsky,2007,2007-08-10,CZE,Czechia,0
-29864,Jacob,Dumansky,2009,2009-01-03,BC,,0
 29410,Logan,Edmonstone,2007,2007-10-03,SK,,0
 29406,Kalan,Anderlini,2006,2006-01-09,BC,,0
 28748,Oren,Shtrom,2004,2004-09-28,AZ,United States,OA
@@ -171,7 +166,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29487,Josh,Banini,2006,2006-04-10,AB,Canada,0
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
-29449,Carson,Deichert,2008,2008-07-28,SK,Canada,0
 28488,Keaton,Dowhaniuk,2004,2004-02-08,AB,,OA
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
@@ -205,6 +199,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,CZE,Czechia,0
 29416,Daxon,Rudolph,2008,2008-03-06,AB,Canada,0
 29896,Linden,Burrett,2006,2006-02-06,BC,,0
+29917,Jackson,Kostiuk,2006,2006-09-14,MB,Canada,0
 28870,Brayden,Dube,2005,2005-09-22,MB,Canada,0
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
 28829,Aiden,Oiring,2005,2005-05-09,AB,Canada,0
@@ -245,7 +240,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29273,Leith,Hunter,2007,2007-04-03,BC,Canada,0
 29523,Derek,Thurston,2006,2006-06-04,BC,Canada,0
 29521,Jake,Missura,2008,2008-06-07,SK,Canada,0
-29233,Luke,Vlooswyk,2007,2007-01-07,,,0
+29233,Luke,Vlooswyk,2007,2007-01-09,,,0
 28390,Hunter,Mayo,2004,2004-05-07,SK,,OA
 29413,Doogan,Pederson,2006,2006-06-27,BC,Canada,0
 28388,Jace,Weir,2004,2004-05-21,BC,,OA
@@ -330,7 +325,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28896,Nathan,Pilling,2004,2004-06-22,AB,Canada,OA
 29590,Grayson,Malinoski,2007,2007-04-11,SK,Canada,0
 28813,Scott,Ratzlaff,2005,2005-03-09,AB,Canada,0
-28898,Matthew,Gallant,2004,2004-01-16,BC,Canada,OA
 28856,Arjun,Bawa,2005,2005-05-10,BC,Canada,0
 29343,Nishaan,Parmar,2006,2006-06-03,BC,Canada,0
 29138,Braeden,Cootes,2007,2007-02-09,AB,Canada,0
@@ -365,7 +359,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28454,Eric,Johnston,2004,2004-02-18,SK,,OA
 29319,Peyton,Kettles,2007,2007-09-01,MB,,0
 29706,Josh,McGregor,2007,2007-06-09,MB,,0
-29322,Marek,Ročák,2005,2005-05-31,,Czechia,0
 29274,Jace,McFaul,2007,2007-03-03,AB,,0
 28938,Rylan,Gould,2005,2005-08-05,MB,,0
 28937,Grayson,Burzynski,2005,2005-06-04,MB,,0
@@ -384,6 +377,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29499,Sawyer,Dingman,2008,2008-09-11,AB,,0
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
 29368,Caleb,Potter,2007,2007-12-12,SK,Canada,0
+29322,Marek,Ročák,2005,2005-05-31,,Czechia,0
 29497,Jaxen,Gauchier,2007,2007-06-21,AB,,0
 29492,Jaxen,Adam,2007,2007-08-17,AB,Canada,0
 28817,Austin,Zemlak,2005,2005-02-26,AB,Canada,0
@@ -397,6 +391,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
 28536,Terrell,Goldsmith,2005,2005-05-13,BC,,0
 29609,Kale,Margolis,2006,2006-12-24,SK,,0
+29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28425,Brandon,Whynott,2004,2004-04-16,BC,,OA
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28796,Carter,MacAdams,2004,2004-03-07,BC,,OA
@@ -440,8 +435,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29441,Aaron,Obobaifo,2007,2007-02-13,AB,Canada,0
 29241,London,Hoilett,2005,2005-02-15,MB,,0
 28909,Jaden,Lipinski,2004,2004-12-02,AZ,United States,OA
-29058,Maxim,Muranov,2004,2004-06-02,,Russia,OA
 29302,Will,Subject,2005,2005-05-10,MN,United States,0
+29058,Maxim,Muranov,2004,2004-06-02,,Russia,OA
 29235,Cameron,Schmidt,2007,2007-01-19,BC,,0
 29239,Jakob,Oreskovic,2007,2007-01-10,BC,,0
 29442,Adam,Titlbach,2006,2006-02-15,,Czechia,0
