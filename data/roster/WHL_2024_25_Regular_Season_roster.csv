@@ -78,6 +78,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28932,Carter,Kowalyk,2005,2005-07-08,AB,,0
 29439,Jackson,Gillespie,2007,2007-02-26,Texas,United States,0
 28755,Max,Graham,2004,2004-05-21,BC,,OA
+28953,Brett,Calhoon,2005,2005-01-10,BC,,0
 29197,Andrew,Petruk,2005,2005-06-08,BC,,0
 29211,Will,Sharpe,2007,2007-03-07,BC,Canada,0
 29008,Tij,Iginla,2006,2006-08-04,BC,Canada,0
@@ -213,8 +214,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,OA
 29334,Dimitri,Fortin,2006,2006-05-19,MB,Canada,0
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,Canada,OA
-29665,Steele,Bass,2008,2008-01-04,AB,Canada,0
-29669,Ben,Harvey,2009,2009-08-06,AB,Canada,0
 28917,Bauer,Dumanski,2005,2005-01-05,SK,Canada,0
 29468,Carson,Carels,2008,2008-06-23,MB,Canada,0
 28919,Viliam,Kmec,2004,2004-01-02,,Slovakia,OA
@@ -253,7 +252,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29009,Ollie,Josephson,2006,2006-07-22,,,0
 29343,Nishaan,Parmar,2006,2006-06-03,BC,Canada,0
 29733,Nolan,Schmidt,2008,2008-03-08,AB,,0
-29735,Noah,Milford,2008,2008-03-07,AB,,0
 29516,Beckett,Hamilton,2008,2008-03-28,SK,Canada,0
 28449,Jhett,Larson,2004,2004-02-03,SK,,OA
 29900,Dmitri,Toporowski,2006,2006-08-11,MA,United States,0
@@ -297,12 +295,15 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28894,Rowan,Calvert,2005,2005-09-01,SK,Canada,0
 29428,Cooper,Williams,2008,2008-02-18,AB,,0
 29185,Hayden,Harsanyi,2007,2007-01-10,AB,Canada,0
+29105,Hunter,Laing,2006,2006-05-16,BC,Canada,0
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
 29920,František,Dej,2005,2005-02-28,,Slovakia,0
 29115,Ethan,McCallum,2006,2006-04-11,MB,Canada,0
 28998,Evan,Gardner,2006,2006-01-25,BC,,0
+29187,Jack,Kachkowski,2007,2007-01-14,AB,Canada,0
 29261,Morgan,Tastad,2006,2006-01-10,SK,Canada,0
 29378,William,James,2006,2006-09-28,AB,,0
+29139,Kazden,Mathies,2007,2007-04-07,SK,Canada,0
 29786,David,Lewandowski,2007,2007-02-20,,Germany,0
 28831,Ashton,Cumby,2005,2005-07-19,AB,Canada,0
 28980,Hyde,Davidson,2006,2006-01-23,AB,Canada,0
