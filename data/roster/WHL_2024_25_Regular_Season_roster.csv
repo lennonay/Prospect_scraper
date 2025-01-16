@@ -33,7 +33,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
-29921,Ethan,Merner,2006,2006-10-17,,,0
+29921,Ethan,Merner,2006,2006-10-17,BC,,0
 29238,Carson,Birnie,2005,2005-02-22,,,0
 29129,Carson,Wetsch,2006,2006-06-05,BC,,0
 28929,David,Adaszynski,2005,2005-05-25,BC,,0
@@ -170,7 +170,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
 29530,Kayd,Ruedig,2007,2007-07-07,SK,,0
-29166,Lochlan,Tetarenko,2007,2007-08-09,AB,Canada,0
 29526,Jordan,Duguay,2008,2008-02-16,AB,,0
 29612,Cole,Slobodian,2006,2006-04-02,MB,,0
 28719,Joel,Plante,2005,2005-06-26,B.C.,,0
@@ -369,7 +368,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28809,Carlin,Dezainde,2004,2004-12-29,AB,,OA
 29103,Clarke,Caswell,2006,2006-02-02,MB,,0
 28939,Luke,Mistelbacher,2005,2005-11-02,MB,,0
-29700,Adam,Král,2006,2006-02-08,,Czechia,0
 29571,Daxon,Yerex,2008,2008-01-26,MB,,0
 28771,Reid,Dyck,2004,2004-01-20,MB,,OA
 29499,Sawyer,Dingman,2008,2008-09-11,AB,,0
