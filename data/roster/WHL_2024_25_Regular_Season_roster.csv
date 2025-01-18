@@ -117,7 +117,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29234,Vojtech,Port,2005,2005-08-03,CZE,Czechia,0
 29208,Kash,Andresen,2007,2007-07-20,SK,Canada,0
 28839,Trae,Johnson,2005,2005-05-03,SK,Canada,0
-29587,Gavin,Lesiuk,2008,2008-01-14,BC,Canada,0
 29584,Leo,Braillard,2005,2005-07-05,SUI,Switzerland,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 29213,Koen,Cleaver,2007,2007-03-28,BC,Canada,0
@@ -170,6 +169,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
 29530,Kayd,Ruedig,2007,2007-07-07,SK,,0
+29166,Lochlan,Tetarenko,2007,2007-08-09,AB,Canada,0
 29526,Jordan,Duguay,2008,2008-02-16,AB,,0
 29612,Cole,Slobodian,2006,2006-04-02,MB,,0
 28719,Joel,Plante,2005,2005-06-26,B.C.,,0
@@ -378,12 +378,10 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28817,Austin,Zemlak,2005,2005-02-26,AB,Canada,0
 29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 29287,Jackson,Smith,2007,2007-05-13,AB,Canada,0
-29853,Alexander,Laing,2009,2009-01-16,BC,,0
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
 29282,Nick,Anisimovicz,2006,2006-08-31,AB,Canada,0
 28326,Jake,Sloan,2004,2004-02-13,AB,Canada,OA
 29892,Savin,Virk,2007,2007-06-06,BC,,0
-29607,Ryker,Rougeau,2007,2007-10-03,BC,,0
 28702,Jake,Gudelj,2005,2005-12-05,BC,,0
 29493,Kainoah,Brankovic,2007,2007-03-12,BC,Canada,0
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
@@ -516,6 +514,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
+29594,Parker,Snell,2008,2008-04-21,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
