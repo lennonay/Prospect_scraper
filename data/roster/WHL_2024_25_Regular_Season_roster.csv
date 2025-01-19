@@ -343,7 +343,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29277,Owen,Martin,2007,2007-05-11,MB,Canada,0
 29279,Chase,Harrington,2007,2007-10-30,BC,Canada,0
 29113,Berkly,Catton,2006,2006-01-14,SK,Canada,0
-29779,Asanali,Sarkenov,2006,2006-07-22,,,0
+29779,Assanali,Sarkenov,2006,2006-07-22,,,0
 29465,Carter,Esler,2008,2008-11-28,AB,Canada,0
 29036,Cameron,Parr,2006,2006-09-06,MB,Canada,0
 28814,Saige,Weinstein,2005,2005-05-30,AB,Canada,0
@@ -363,6 +363,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29251,Parker,Rondeau,2007,2007-06-15,SK,,0
 29919,Otto,Hanson,2006,2006-06-28,AB,,0
 29119,Trae,Wilke,2006,2006-04-20,SK,,0
+29922,William,Morin,2007,2007-04-12,,Sweden,0
 29144,Connor,Dale,2005,2005-01-29,AB,Canada,0
 29541,Kurt,Rookes,2005,2005-03-09,MB,,0
 28809,Carlin,Dezainde,2004,2004-12-29,AB,,OA
