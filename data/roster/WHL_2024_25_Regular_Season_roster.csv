@@ -187,6 +187,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29772,Brodie,Hankel,2006,2006-01-26,AB,,0
 29753,Reed,Brown,2008,2008-02-22,AZ,United States,0
 29597,Marek,Schlenker,2006,2006-04-01,AB,,0
+29924,Max,Pšenička,2007,2007-01-18,,Czechia,0
 29906,Alex,Weiermair,2005,2005-05-10,CA,United States,0
 29006,Diego,Buttazzoni,2006,2006-01-13,BC,,0
 29412,Tyrone,Sobry,2006,2006-07-13,SK,Canada,0
@@ -251,14 +252,13 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29343,Nishaan,Parmar,2006,2006-06-03,BC,Canada,0
 29733,Nolan,Schmidt,2008,2008-03-08,AB,,0
 29516,Beckett,Hamilton,2008,2008-03-28,SK,Canada,0
+29250,Ty,Coupland,2007,2007-05-06,BC,,0
 28449,Jhett,Larson,2004,2004-02-03,SK,,OA
 29900,Dmitri,Toporowski,2006,2006-08-11,MA,United States,0
-29250,Ty,Coupland,2007,2007-05-06,BC,,0
 28857,Talon,Brigley,2005,2005-02-16,AB,Canada,0
 29784,Jack,Bousquet,2007,2007-12-18,AB,Canada,0
 29581,Peyton,Shore,2008,2008-07-21,MB,,0
 29039,Chase,Wutzke,2006,2006-07-26,SK,,0
-29916,Matthew,Kondro,2007,2007-12-06,AB,Canada,0
 29248,Kolten,Bridgeman,2006,2006-10-28,SK,,0
 28358,John,Babcock,2004,2004-04-25,BC,,OA
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
@@ -386,7 +386,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28527,Carter,Savage,2005,2005-02-05,BC,Canada,0
 28536,Terrell,Goldsmith,2005,2005-05-13,BC,,0
 29609,Kale,Margolis,2006,2006-12-24,SK,,0
-29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28425,Brandon,Whynott,2004,2004-04-16,BC,,OA
 29149,Grady,Martin,2006,2006-04-26,AB,Canada,0
 28796,Carter,MacAdams,2004,2004-03-07,BC,,OA
@@ -397,6 +396,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28986,Gavin,Garland,2006,2006-02-06,AB,Canada,0
 29265,Ismail,Abougouche,2006,2006-01-30,AB,,0
 29488,Max,Curran,2006,2006-08-27,,Czechia,0
+29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28887,Eastyn,Mannix,2005,2005-02-28,AB,,0
 29108,Josh,Fluker,2006,2006-01-03,MB,,0
 29152,Seth,Tansem,2006,2006-03-01,BC,Canada,0
