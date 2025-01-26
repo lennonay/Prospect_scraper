@@ -66,6 +66,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29171,Andrew,Thomson,2007,2007-01-01,AB,,0
 29408,Josh,Kelly,2006,2006-05-10,BC,,0
 28903,Jordan,Keller,2005,2005-03-08,BC,Canada,0
+29759,Madden,Tymchak,2009,2009-02-06,MB,,0
 28844,John,Szabo,2005,2005-05-24,AB,,0
 29722,Vit,Zahejsky,2007,2007-08-10,CZE,Czechia,0
 28773,Beau,Courtney,2004,2004-01-12,CO,United States,OA
@@ -108,6 +109,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29651,Cameron,Norrie,2007,2007-05-29,BC,Canada,0
 29072,Miguel,Marques,2006,2006-03-08,BC,Canada,0
 28852,Kooper,Gizowski,2005,2005-05-05,AB,Canada,0
+29912,Easton,Daneault,2008,2008-04-23,AB,Canada,0
 28709,Logan,Wormald,2005,2005-08-12,BC,Canada,0
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
 29387,Chase,Petersen,2008,2008-05-19,SK,Canada,0
@@ -393,7 +395,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29595,Nathan,Preston,2005,2005-11-12,BC,,0
 29491,Cruz,Pavao,2008,2008-08-24,AB,Canada,0
 29905,Ryan,Grout,2007,2007-08-15,AB,,0
-28986,Gavin,Garland,2006,2006-02-06,AB,Canada,0
+28986,Gavin,Garland,2006,2006-02-08,AB,Canada,0
 29265,Ismail,Abougouche,2006,2006-01-30,AB,,0
 29488,Max,Curran,2006,2006-08-27,,Czechia,0
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
@@ -443,6 +445,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29123,Brady,Smith,2005,2005-05-31,BC,Canada,0
 29290,Burke,Hood,2007,2007-04-30,MB,,0
 29539,Caden,Cail,2007,2007-08-17,BC,Canada,0
+29925,Dylan,Hurren,2009,2009-06-17,BC,Canada,0
 29089,Marek,Howell,2006,2006-05-19,AB,Canada,0
 28803,Mazden,Leslie,2005,2005-04-15,AB,,0
 28867,Eric,Jamieson,2005,2005-07-15,AB,Canada,0
