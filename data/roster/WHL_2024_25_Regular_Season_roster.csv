@@ -165,6 +165,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29487,Josh,Banini,2006,2006-04-10,AB,Canada,0
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
+29449,Carson,Deichert,2008,2008-07-28,SK,Canada,0
+29899,Gage,Nagel,2007,2007-02-12,,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
@@ -446,7 +448,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29123,Brady,Smith,2005,2005-05-31,BC,Canada,0
 29290,Burke,Hood,2007,2007-04-30,MB,,0
 29539,Caden,Cail,2007,2007-08-17,BC,Canada,0
-29925,Dylan,Hurren,2009,2009-06-17,BC,Canada,0
 29089,Marek,Howell,2006,2006-05-19,AB,Canada,0
 28803,Mazden,Leslie,2005,2005-04-15,AB,,0
 28867,Eric,Jamieson,2005,2005-07-15,AB,Canada,0
