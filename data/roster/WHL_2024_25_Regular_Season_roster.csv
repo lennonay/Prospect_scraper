@@ -151,6 +151,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
+29447,William,Degagne,2008,2008-05-06,SK,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
@@ -164,8 +165,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29487,Josh,Banini,2006,2006-04-10,AB,Canada,0
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
-29930,Cooper,Perrin,2009,2009-01-02,SK,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
+29931,Dominik,Pavlik,2007,2007-03-27,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
 29757,Ondrej,Štěbeták,2007,2007-07-19,,Czechia,0
