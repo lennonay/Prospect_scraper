@@ -296,7 +296,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29428,Cooper,Williams,2008,2008-02-18,AB,,0
 29185,Hayden,Harsanyi,2007,2007-01-10,AB,Canada,0
 29105,Hunter,Laing,2006,2006-05-16,BC,Canada,0
-29698,Triston,Mitchell-McElhone,2008,2008-09-15,SK,,0
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
 29423,Ryley,Budd,2008,2008-05-09,AB,,0
 29920,František,Dej,2005,2005-02-28,,Slovakia,0
@@ -307,6 +306,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29378,William,James,2006,2006-09-28,AB,,0
 29139,Kazden,Mathies,2007,2007-04-07,SK,Canada,0
 29786,David,Lewandowski,2007,2007-02-20,,Germany,0
+29934,adam,halat,0,,,,0
 28831,Ashton,Cumby,2005,2005-07-19,AB,Canada,0
 28980,Hyde,Davidson,2006,2006-01-23,AB,Canada,0
 29369,Vanek,Popil,2008,2008-05-14,AB,Canada,0
@@ -507,6 +507,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29710,Noa,Ta'Amu,2008,2008-05-28,"CA, USA",,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
+29707,Kayden,Stroeder,2009,2009-03-01,SK,,0
 29204,Marshall,Finnie,2004,2004-01-02,AB,,OA
 28741,Cole,Miller,2005,2005-02-04,AB,Canada,0
 28381,Rylen,Roersma,2004,2004-07-25,AB,,OA
