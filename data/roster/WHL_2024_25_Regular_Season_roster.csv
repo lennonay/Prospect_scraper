@@ -1,4 +1,5 @@
 player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
+29719,Cameron,Allard,2008,2008-01-11,SK,,0
 29020,Merrek,Arpin,2006,2006-05-31,AB,Canada,0
 29720,Dylan,Ronald,2006,2006-11-09,AB,,0
 28838,Quinn,Mantei,2005,2005-04-23,SK,,0
@@ -13,9 +14,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29715,Ben,Binder Nord,2007,2007-05-15,AB,,0
 28800,Luke,Shipley,2004,2004-08-08,BC,,OA
 29314,Easton,Odut,2007,2007-08-27,MB,,0
-29220,Ethan,Eskit,2006,2006-01-07,AB,,0
-29719,Cameron,Allard,2008,2008-01-11,SK,,0
 29716,Chase,Surkan,2009,2009-03-21,SK,,0
+29220,Ethan,Eskit,2006,2006-01-07,AB,,0
 29099,Nicholas,Johnson,2005,2005-01-20,AB,,0
 28886,Carson,Bjarnason,2005,2005-06-30,MB,,0
 29601,Brady,Turko,2007,2007-09-12,MB,,0
@@ -120,6 +120,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29584,Leo,Braillard,2005,2005-07-05,SUI,Switzerland,0
 28780,Brayden,Yager,2005,2005-01-03,SK,Canada,0
 29213,Koen,Cleaver,2007,2007-03-28,BC,Canada,0
+29583,Brody,Rotar,2008,2008-09-20,BC,Canada,0
 28812,Jackson,Unger,2005,2005-01-13,AB,Canada,0
 29908,Tyson,Moss,2007,2007-02-22,BC,Canada,0
 29380,Riley,Steen,2008,2008-09-08,BC,Canada,0
