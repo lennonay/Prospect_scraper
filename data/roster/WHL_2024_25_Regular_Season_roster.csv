@@ -47,7 +47,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28540,Oliver,Tulk,2005,2005-01-19,BC,,0
 29502,Brandon,Gorzynski,2007,2007-03-12,AZ,,0
 29747,Rylan,Ng,2008,2008-09-22,AB,,0
-29567,Madex,Kabrud,2008,2008-02-06,SK,,0
 29333,Samuel,Borschowa,2005,2005-01-21,SK,Canada,0
 29170,Isa,Guram,2007,2007-05-10,BC,,0
 29391,Matteo,Koci,2005,2005-06-07,,Czechia,0
@@ -329,7 +328,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28896,Nathan,Pilling,2004,2004-06-22,AB,Canada,OA
 29590,Grayson,Malinoski,2007,2007-04-11,SK,Canada,0
 28813,Scott,Ratzlaff,2005,2005-03-09,AB,Canada,0
-29621,Grayson,Tash,2009,2009-04-12,BC,Canada,0
 28371,Brayden,Schuurman,2004,2004-02-22,BC,Canada,OA
 29138,Braeden,Cootes,2007,2007-02-09,AB,Canada,0
 29624,Matej,Pekar,2007,2007-09-08,,Czechia,0
@@ -423,6 +421,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28790,Reid,Andresen,2005,2005-04-29,SK,,0
 28992,Zane,Saab,2006,2006-02-21,AB,Canada,0
 29517,Jeramiah,Roberts,2007,2007-05-24,Colorado,United States,0
+29761,Grady,Wedman,2008,2008-09-19,AB,Canada,0
 29893,Lukas,McCloskey,2005,2005-03-25,CA,United States,0
 29897,Brendan,Dunphy,2006,2006-02-02,CA,United States,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
@@ -508,19 +507,18 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29710,Noa,Ta'amu,2008,2008-05-28,"CA, USA",,0
 29202,Parker,Alcos,2006,2006-07-20,BC,,0
 28863,Roan,Woodward,2005,2005-09-03,SK,Canada,0
-29707,Kayden,Stroeder,2009,2009-03-01,SK,,0
 29204,Marshall,Finnie,2004,2004-01-02,AB,,OA
 28741,Cole,Miller,2005,2005-02-04,AB,Canada,0
 28381,Rylen,Roersma,2004,2004-07-25,AB,,OA
 29075,Gavin,Hodnett,2006,2006-04-09,MB,,0
 29392,Luke,Powell,2007,2007-04-23,AB,,0
 29393,Joe,Iginla,2008,2008-08-13,BC,,0
-29205,Presley,Kerner,2007,2007-11-03,BC,,0
 29315,Landon,Hanson,2006,2006-01-09,AB,,0
 29395,Josh,Lee,2008,2008-01-10,BC,,0
 29071,Alex,Worthington,2005,2005-05-02,SK,,0
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
+29550,Matthew,Williams,2008,2008-01-25,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
 29594,Parker,Snell,2008,2008-04-21,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
