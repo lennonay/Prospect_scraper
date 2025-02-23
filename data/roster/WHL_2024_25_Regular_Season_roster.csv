@@ -379,6 +379,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28942,Joey,Rocha,2005,2005-01-22,BC,,0
 29322,Marek,Ročák,2005,2005-05-31,,Czechia,0
 29497,Jaxen,Gauchier,2007,2007-06-21,AB,,0
+29593,Armaan,Kaila,2007,2007-03-27,BC,,0
 29492,Jaxen,Adam,2007,2007-08-19,AB,Canada,0
 28817,Austin,Zemlak,2005,2005-02-26,AB,Canada,0
 29287,Jackson,Smith,2007,2007-05-13,AB,Canada,0
@@ -518,9 +519,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29071,Alex,Worthington,2005,2005-05-02,SK,,0
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
-29550,Matthew,Williams,2008,2008-01-25,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
-29594,Parker,Snell,2008,2008-04-21,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
