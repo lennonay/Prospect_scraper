@@ -106,7 +106,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29651,Cameron,Norrie,2007,2007-05-29,BC,Canada,0
 29072,Miguel,Marques,2006,2006-03-08,BC,Canada,0
 28852,Kooper,Gizowski,2005,2005-05-05,AB,Canada,0
-29912,Easton,Daneault,2008,2008-04-23,AB,Canada,0
 29659,Kai,Anderson,2008,2008-04-07,BC,Canada,0
 28709,Logan,Wormald,2005,2005-08-12,BC,Canada,0
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
@@ -150,7 +149,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
-29447,William,Degagne,2008,2008-05-06,SK,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
 29229,Noah,Degenstein,2007,2007-02-12,AB,Canada,0
@@ -253,6 +251,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29009,Ollie,Josephson,2006,2006-07-22,,,0
 29343,Nishaan,Parmar,2006,2006-06-03,BC,Canada,0
 29733,Nolan,Schmidt,2008,2008-03-08,AB,,0
+29735,Noah,Milford,2008,2008-03-07,AB,,0
 29516,Beckett,Hamilton,2008,2008-03-28,SK,Canada,0
 29250,Ty,Coupland,2007,2007-05-06,BC,,0
 28449,Jhett,Larson,2004,2004-02-03,SK,,OA
@@ -439,6 +438,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
 29441,Aaron,Obobaifo,2007,2007-02-13,AB,Canada,0
 29241,London,Hoilett,2005,2005-02-15,MB,,0
+29770,Landon,Horiachka,2009,2009-01-06,AB,,0
 28909,Jaden,Lipinski,2004,2004-12-02,AZ,United States,OA
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,OA
 29235,Cameron,Schmidt,2007,2007-01-19,BC,,0
