@@ -72,6 +72,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28748,Oren,Shtrom,2004,2004-09-28,AZ,United States,OA
 28279,Dylan,Ernst,2004,2004-02-06,SK,,OA
 29247,Rhett,Stoesser,2005,2005-01-31,,,0
+29938,Dallin,Antos,2008,2008-01-02,AB,Canada,0
 28932,Carter,Kowalyk,2005,2005-07-08,AB,,0
 29439,Jackson,Gillespie,2007,2007-02-26,Texas,United States,0
 28755,Max,Graham,2004,2004-05-21,BC,,OA
@@ -107,6 +108,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29072,Miguel,Marques,2006,2006-03-08,BC,Canada,0
 28852,Kooper,Gizowski,2005,2005-05-05,AB,Canada,0
 29659,Kai,Anderson,2008,2008-04-07,BC,Canada,0
+29657,Jake,Evans,2009,2009-09-23,SK,Canada,0
 28709,Logan,Wormald,2005,2005-08-12,BC,Canada,0
 28826,Brayden,Edwards,2004,2004-12-23,BC,Canada,OA
 29387,Chase,Petersen,2008,2008-05-19,SK,Canada,0
@@ -430,6 +432,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29932,Luke,McKechnie,0,,,,0
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
 29933,Matthew,Michto,0,,,,0
+29937,Theodore,Everson,0,,,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
 29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 29769,Tyus,Sparks,2008,2008-01-04,ID,United States,0
