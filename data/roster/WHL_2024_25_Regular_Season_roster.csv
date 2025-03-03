@@ -127,11 +127,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28344,Mathew,Ward,2004,2004-01-24,BC,Canada,OA
 29627,Shaeffer,Gordon-Carroll,2008,2008-11-26,UT,United States,0
 29383,Liam,Ruck,2008,2008-02-21,BC,Canada,0
-29628,Luke,Ruptash,2009,2009-01-02,AB,Canada,0
 28952,Hunter,St. Martin,2005,2005-06-13,AB,Canada,0
 29889,Carter,Cunningham,2006,2006-01-11,AB,Canada,0
 29025,Jonas,Woo,2006,2006-11-19,MB,Canada,0
 28895,Misha,Volotovskii,2005,2005-06-23,AB,,0
+29382,Avery,Watson,2008,2008-02-27,AB,Canada,0
 29150,Ryder,Ritchie,2006,2006-08-03,BC,Canada,0
 28946,Josh,Van Mulligen,2005,2005-07-26,AB,Canada,0
 29641,Veeti,Väisänen,2006,2006-02-15,,Finland,0
@@ -144,6 +144,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29198,Jordan,Switzer,2007,2007-01-26,AB,Canada,0
 28949,Andrew,Basha,2005,2005-11-08,AB,Canada,0
 28935,Harrison,Meneghin,2004,2004-09-13,BC,Canada,OA
+29608,Brayden,Ryan-MacKay,2008,2008-06-20,AB,Canada,0
 28823,Marcus,Pacheco,2005,2005-04-06,AB,Canada,0
 29192,Gavin,McKenna,2007,2007-12-20,YT,Canada,0
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
@@ -433,6 +434,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
 29933,Matthew,Michto,0,,,,0
 29937,Theodore,Everson,0,,,,0
+29939,Nathan,Niedermeiser,0,,,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
 29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 29769,Tyus,Sparks,2008,2008-01-04,ID,United States,0
