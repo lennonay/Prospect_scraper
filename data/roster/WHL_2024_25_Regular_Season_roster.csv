@@ -96,6 +96,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29689,Jacob,Henderson,2008,2008-03-13,BC,,0
 29007,Hiroki,Gojsic,2006,2006-05-01,BC,,0
 29275,Jake,Pilon,2006,2006-10-12,AB,,0
+29940,Gabriel,O'Brien,2008,2008-04-03,AB,Canada,0
 28421,Logan,McCutcheon,2004,2004-01-19,SK,Canada,OA
 29212,Carsen,Adair,2007,2007-02-14,SK,Canada,0
 29390,Grady,Pichette,2008,2008-12-28,AB,,0
@@ -147,7 +148,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28823,Marcus,Pacheco,2005,2005-04-06,AB,Canada,0
 29192,Gavin,McKenna,2007,2007-12-20,YT,Canada,0
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
-29935,Kasen,Mateychuk,2007,2007-01-06,MB,Canada,0
 29737,Nolan,Paquette,2007,2007-02-14,AB,Canada,0
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
@@ -166,6 +166,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
+29935,Kasen,Mateychuk,2007,2007-01-06,MB,Canada,0
 29931,Dominik,Pavlik,2007,2007-03-27,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
@@ -263,7 +264,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29784,Jack,Bousquet,2007,2007-12-18,AB,Canada,0
 29581,Peyton,Shore,2008,2008-07-21,MB,,0
 29039,Chase,Wutzke,2006,2006-07-26,SK,,0
-29916,Matthew,Kondro,2007,2007-12-06,AB,Canada,0
 29248,Kolten,Bridgeman,2006,2006-10-28,SK,,0
 28358,John,Babcock,2004,2004-04-25,BC,,OA
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
@@ -443,7 +443,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28907,Ty,Halaburda,2005,2005-04-22,BC,,0
 29441,Aaron,Obobaifo,2007,2007-02-13,AB,Canada,0
 29241,London,Hoilett,2005,2005-02-15,MB,,0
-29770,Landon,Horiachka,2009,2009-01-06,AB,,0
 28909,Jaden,Lipinski,2004,2004-12-02,AZ,United States,OA
 29058,Maxim,Muranov,2004,2004-06-02,,Russia,OA
 29235,Cameron,Schmidt,2007,2007-01-19,BC,,0
