@@ -151,6 +151,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29737,Nolan,Paquette,2007,2007-02-14,AB,Canada,0
 29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
+29923,Colt,Carter,2009,2009-07-23,AB,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
@@ -255,7 +256,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29009,Ollie,Josephson,2006,2006-07-22,,,0
 29343,Nishaan,Parmar,2006,2006-06-03,BC,Canada,0
 29733,Nolan,Schmidt,2008,2008-03-08,AB,,0
-29735,Noah,Milford,2008,2008-03-07,AB,,0
 29516,Beckett,Hamilton,2008,2008-03-28,SK,Canada,0
 29250,Ty,Coupland,2007,2007-05-06,BC,,0
 28449,Jhett,Larson,2004,2004-02-03,SK,,OA
@@ -264,6 +264,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29784,Jack,Bousquet,2007,2007-12-18,AB,Canada,0
 29581,Peyton,Shore,2008,2008-07-21,MB,,0
 29039,Chase,Wutzke,2006,2006-07-26,SK,,0
+29916,Matthew,Kondro,2007,2007-12-06,AB,Canada,0
 29248,Kolten,Bridgeman,2006,2006-10-28,SK,,0
 28358,John,Babcock,2004,2004-04-25,BC,,OA
 29480,Reese,Hamilton,2007,2007-03-26,SK,,0
@@ -526,7 +527,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
-29594,Parker,Snell,2008,2008-04-21,AB,,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
