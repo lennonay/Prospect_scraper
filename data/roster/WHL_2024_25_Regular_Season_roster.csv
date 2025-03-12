@@ -202,6 +202,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29405,Vojtech,Vochvest,2005,2005-10-20,CZE,Czechia,0
 29416,Daxon,Rudolph,2008,2008-03-06,AB,Canada,0
 29896,Linden,Burrett,2006,2006-02-06,BC,,0
+29894,Liam,Myhre,2009,2009-05-16,SK,Canada,0
 29917,Jackson,Kostiuk,2006,2006-09-14,MB,Canada,0
 28870,Brayden,Dube,2005,2005-09-22,MB,Canada,0
 29153,Oli,Chenier,2007,2007-01-26,MB,Canada,0
@@ -217,6 +218,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28811,Max,Hildebrand,2004,2004-06-29,SK,Canada,OA
 29334,Dimitri,Fortin,2006,2006-05-19,MB,Canada,0
 28360,Rilen,Kovacevic,2004,2004-08-02,BC,Canada,OA
+29670,Connor,Howe,2009,2009-06-26,SK,Canada,0
 28917,Bauer,Dumanski,2005,2005-01-05,SK,Canada,0
 29468,Carson,Carels,2008,2008-06-23,MB,Canada,0
 28919,Viliam,Kmec,2004,2004-01-02,,Slovakia,OA
@@ -302,7 +304,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29185,Hayden,Harsanyi,2007,2007-01-10,AB,Canada,0
 29105,Hunter,Laing,2006,2006-05-16,BC,Canada,0
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
-29423,Ryley,Budd,2008,2008-05-09,AB,,0
 29920,František,Dej,2005,2005-02-28,,Slovakia,0
 29115,Ethan,McCallum,2006,2006-04-11,MB,Canada,0
 28998,Evan,Gardner,2006,2006-01-25,BC,,0
@@ -384,10 +385,12 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29593,Armaan,Kaila,2007,2007-03-27,BC,,0
 29492,Jaxen,Adam,2007,2007-08-19,AB,Canada,0
 28817,Austin,Zemlak,2005,2005-02-26,AB,Canada,0
+29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 29287,Jackson,Smith,2007,2007-05-13,AB,Canada,0
-29673,Aden,Bouchard,2009,2009-03-25,AB,Canada,0
+29579,Mason,Mykichuk,2008,2008-06-30,MB,Canada,0
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
 29282,Nick,Anisimovicz,2006,2006-08-31,AB,Canada,0
+29577,Carter,Kingerski,2008,2008-03-08,MB,Canada,0
 28326,Jake,Sloan,2004,2004-02-13,AB,Canada,OA
 29892,Savin,Virk,2007,2007-06-06,BC,,0
 28702,Jake,Gudelj,2005,2005-12-05,BC,,0
@@ -521,6 +524,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29075,Gavin,Hodnett,2006,2006-04-09,MB,,0
 29392,Luke,Powell,2007,2007-04-23,AB,,0
 29393,Joe,Iginla,2008,2008-08-13,BC,,0
+29205,Presley,Kerner,2007,2007-11-03,BC,,0
 29315,Landon,Hanson,2006,2006-01-09,AB,,0
 29395,Josh,Lee,2008,2008-01-10,BC,,0
 29071,Alex,Worthington,2005,2005-05-02,SK,,0
