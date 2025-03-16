@@ -280,10 +280,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29218,Brayden,Smith,2007,2007-04-16,SK,,0
 29454,Cohen,Klassen,2008,2008-09-08,SK,,0
 29617,Dayton,Deschamps,2007,2007-08-19,SK,,0
+29678,Cohen,Handby,2009,2009-12-17,BC,,0
 29195,Matt,Paranych,2007,2007-04-23,AB,Canada,0
+29679,Sam,Failler,2009,2009-02-08,SK,,0
 29718,Kristian,Lacelle,2007,2007-09-23,SK,,0
 29457,Cameron,Kuzma,2008,2008-07-17,AB,,0
-29679,Sam,Failler,2009,2009-02-08,SK,,0
 28750,Braxton,Whitehead,2004,2004-06-09,AK,United States,OA
 28921,Ephram,McNutt,2005,2005-05-04,AB,Canada,0
 29458,Zachary,Lansard,2008,2008-07-29,MB,,0
@@ -410,7 +411,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29488,Max,Curran,2006,2006-08-27,,Czechia,0
 29102,Charlie,Elick,2006,2006-01-17,AB,,0
 28887,Eastyn,Mannix,2005,2005-02-28,AB,,0
-29793,Boston,Tait,2009,2009-04-13,SK,,0
+29765,Daniel,Vaillant,2009,2009-02-10,AB,Canada,0
 29108,Josh,Fluker,2006,2006-01-03,MB,,0
 29152,Seth,Tansem,2006,2006-03-01,BC,Canada,0
 29588,Brayden,Pankey,2006,2006-02-26,WA,United States,0
@@ -429,18 +430,13 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28790,Reid,Andresen,2005,2005-04-29,SK,,0
 28992,Zane,Saab,2006,2006-02-21,AB,Canada,0
 29517,Jeramiah,Roberts,2007,2007-05-24,Colorado,United States,0
-29761,Grady,Wedman,2008,2008-09-19,AB,Canada,0
 29893,Lukas,McCloskey,2005,2005-03-25,CA,United States,0
 29897,Brendan,Dunphy,2006,2006-02-02,CA,United States,0
 29117,Luka,Shcherbyna,2006,2006-06-01,BC,,0
 29549,Caelan,Joudrey,2008,2008-01-17,AB,Canada,0
 28976,Alex,Garrett,2005,2005-04-19,SK,,0
-29932,Luke,McKechnie,0,,,,0
+29941,Carsten,Leyerzapf,2009,2009-01-24,AB,Canada,0
 29430,Brendan,Gee,2005,2005-06-17,BC,,0
-29933,Matthew,Michto,0,,,,0
-29937,Theodore,Everson,0,,,,0
-29939,Nathan,Niedermeiser,0,,,,0
-29941,Carsten,Leyerzapf,0,,,,0
 29237,Colton,Alain,2007,2007-05-10,BC,,0
 29532,Ryan,Lin,2008,2008-04-18,BC,Canada,0
 29769,Tyus,Sparks,2008,2008-01-04,ID,United States,0
@@ -532,6 +528,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29904,Ethan,Simcoe,2006,2006-03-02,MB,Canada,0
 29604,Jack,Toogood,2007,2007-08-16,AB,,0
 28525,Niko,Tsakumis,2005,2005-07-05,BC,Canada,0
+29936,Brady,Craik,2005,2005-03-09,CA,United States,0
 29375,Adam,Jecho,2006,2006-03-24,,Czechia,0
 29207,Ethan,MacKenzie,2006,2006-09-02,BC,,0
 29134,Gracyn,Sawchyn,2005,2005-01-19,AB,Canada,0
