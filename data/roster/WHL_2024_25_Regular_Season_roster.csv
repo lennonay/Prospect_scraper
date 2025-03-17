@@ -146,12 +146,11 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28935,Harrison,Meneghin,2004,2004-09-13,BC,Canada,OA
 28823,Marcus,Pacheco,2005,2005-04-06,AB,Canada,0
 29192,Gavin,McKenna,2007,2007-12-20,YT,Canada,0
-29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29090,Brady,Ness,2006,2006-06-18,AB,Canada,0
-29935,Kasen,Mateychuk,2007,2007-01-06,MB,Canada,0
 29737,Nolan,Paquette,2007,2007-02-14,AB,Canada,0
-29923,Colt,Carter,2009,2009-07-23,AB,Canada,0
+29448,Aaron,Sawatzky,2008,2008-05-18,AB,Canada,0
 29227,Landen,McFadden,2007,2007-08-04,AB,Canada,0
+29923,Colt,Carter,2009,2009-07-23,AB,Canada,0
 29226,Connor,Schmidt,2007,2007-03-20,AB,Canada,0
 28532,Ethan,Semeniuk,2005,2005-04-21,BC,Canada,0
 29158,Luke,Moroz,2007,2007-07-18,SK,Canada,0
@@ -167,6 +166,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29231,Owen,Berge,2006,2006-05-02,AB,Canada,0
 29741,Riley,Thorpe,2008,2008-03-27,AB,Canada,0
 29420,Krzysztof,Macias,2004,2004-05-14,POL,Poland,OA
+29935,Kasen,Mateychuk,2007,2007-01-06,MB,Canada,0
 29931,Dominik,Pavlik,2007,2007-03-27,,Czechia,0
 29230,Max,Finley,2007,2007-01-05,BC,Canada,0
 29654,Ryder,Ellis,2006,2006-04-09,SK,Canada,0
@@ -389,6 +389,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29490,Clayton,Gillmore,2007,2007-03-30,BC,Canada,0
 29287,Jackson,Smith,2007,2007-05-13,AB,Canada,0
 29579,Mason,Mykichuk,2008,2008-06-30,MB,Canada,0
+29673,Aden,Bouchard,2009,2009-03-25,AB,Canada,0
 29283,Cash,Koch,2007,2007-03-31,AB,Canada,0
 29282,Nick,Anisimovicz,2006,2006-08-31,AB,Canada,0
 29577,Carter,Kingerski,2008,2008-03-08,MB,Canada,0
