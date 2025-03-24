@@ -28,7 +28,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29554,Noah,Kosick,2008,2008-08-18,BC,,0
 29774,Axel,Hurtig,2005,2005-06-10,,Sweden,0
 29485,Hunter,Aura,2007,2007-10-22,BC,,0
-28370,Kalem,Parker,2004,2004-10-12,SK,Canada,OA
 28816,Tanner,Howe,2005,2005-11-28,SK,,0
 29345,Ben,Kindel,2007,2007-04-19,BC,,0
 29537,Wyatt,Pisarczyk,2007,2007-07-20,AB,,0
@@ -308,6 +307,7 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29160,Hudson,Kibblewhite,2007,2007-04-07,BC,Canada,0
 29163,Isaac,Poll,2007,2007-05-03,SK,Canada,0
 29425,Colten,Worthington,2007,2007-08-24,MB,,0
+29644,Jaggar,John,2009,2009-07-17,AB,,0
 29645,Kohen,Lodge,2008,2008-10-05,AB,,0
 28901,Tyler,Parr,2005,2005-01-30,MB,,0
 28429,Grayden,Siepmann,2004,2004-05-26,BC,Canada,OA
@@ -316,10 +316,12 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29185,Hayden,Harsanyi,2007,2007-01-10,AB,Canada,0
 29105,Hunter,Laing,2006,2006-05-16,BC,Canada,0
 28366,Tanner,Scott,2004,2004-05-31,AB,Canada,OA
+29423,Ryley,Budd,2008,2008-05-09,AB,,0
 29920,František,Dej,2005,2005-02-28,,Slovakia,0
 29115,Ethan,McCallum,2006,2006-04-11,MB,Canada,0
 28998,Evan,Gardner,2006,2006-01-25,BC,,0
 29187,Jack,Kachkowski,2007,2007-01-14,AB,Canada,0
+29563,Jack,Lavallee,2008,2008-01-27,SK,,0
 29261,Morgan,Tastad,2006,2006-01-10,SK,Canada,0
 29378,William,James,2006,2006-09-28,AB,,0
 29139,Kazden,Mathies,2007,2007-04-07,SK,Canada,0
@@ -513,7 +515,6 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 28392,Brayden,Boehm,2004,2004-01-15,BC,Canada,OA
 29291,Cole,Reschny,2007,2007-04-06,SK,Canada,0
 28354,Brandon,Lisowsky,2004,2004-04-13,BC,,OA
-29726,Jacob,Schwartz,2009,2009-06-06,BC,Canada,0
 29127,Cosmo,Wilson,2005,2005-01-09,BC,Canada,0
 29298,Jerrett,Ross,2007,2007-06-06,AB,Canada,0
 29168,Daniel,Morozov,2007,2007-11-17,BC,Canada,0
@@ -528,10 +529,8 @@ player_id,first_name,last_name,birthdate_year,birth_date,homeprov,homecntry,OA
 29296,Caleb,Matthews,2007,2007-06-04,AB,Canada,0
 29507,Logan,Pickford,2006,2006-01-08,SK,Canada,0
 29913,Johnny,Hicks,2005,2005-09-11,BC,Canada,0
-29510,Cruz,Waltze,2008,2008-09-03,WA,United States,0
 29109,Jayden,Kraus,2006,2006-11-18,SK,Canada,0
 29244,Escalus,Burlock,2006,2006-04-11,,,0
-29431,Kenta,Isogai,2004,2004-08-28,,Japan,OA
 28847,Josh,Mori,2004,2004-03-27,BC,,OA
 29374,Blake,Fiddler,2007,2007-07-09,TX,United States,0
 29201,Rhys,Pederson,2006,2006-09-08,AB,,0
